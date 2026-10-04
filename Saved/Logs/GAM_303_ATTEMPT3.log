@@ -1451,3 +1451,896 @@ LogConfig: Set CVar [[r.Nanite.Streaming.ReservedResources:1]]
 [2026.10.04-19.00.36:072][132]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 371.412415
 [2026.10.04-19.00.37:070][135]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.10.04-19.00.37:070][135]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 372.078766, Update Interval: 333.148590
+[2026.10.04-19.05.29:129][700]LogSlate: Took 0.000833 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.10.04-19.05.32:797][848]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.10.04-19.05.32:813][848]LogContentBrowser: Creating deferred item: NewFolder
+[2026.10.04-19.05.32:844][849]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.10.04-19.05.37:720][929]LogContentBrowser: Attempting asset rename: NewFolder -> interactables
+[2026.10.04-19.05.37:722][929]LogContentBrowser: End creating deferred item NewFolder
+[2026.10.04-19.05.47:491][498]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.10.04-19.05.47:506][498]LogContentBrowser: Creating deferred item: NewFolder
+[2026.10.04-19.05.47:537][499]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.10.04-19.05.52:767][579]LogContentBrowser: Attempting asset rename: NewFolder -> interfaces
+[2026.10.04-19.05.52:768][579]LogContentBrowser: End creating deferred item NewFolder
+[2026.10.04-19.06.00:011][966]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.10.04-19.06.00:032][966]LogContentBrowser: Creating deferred item: NewFolder
+[2026.10.04-19.06.00:060][967]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.10.04-19.06.03:402][ 14]LogContentBrowser: Attempting asset rename: NewFolder -> maps
+[2026.10.04-19.06.03:404][ 14]LogContentBrowser: End creating deferred item NewFolder
+[2026.10.04-19.06.09:006][293]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.10.04-19.06.09:040][293]LogContentBrowser: Creating deferred item: NewFolder
+[2026.10.04-19.06.09:072][294]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.10.04-19.06.11:046][322]LogContentBrowser: Attempting asset rename: NewFolder -> player
+[2026.10.04-19.06.11:047][322]LogContentBrowser: End creating deferred item NewFolder
+[2026.10.04-19.06.13:909][366]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 709.248535
+[2026.10.04-19.06.14:169][369]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.10.04-19.06.14:169][369]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 709.444946, Update Interval: 302.305359
+[2026.10.04-19.07.18:021][610]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2026.10.04-19.07.18:035][610]LogContentBrowser: Creating deferred item: NewInputAction
+[2026.10.04-19.07.18:096][612]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2026.10.04-19.07.41:128][536]LogContentBrowser: Attempting asset rename: NewInputAction -> inputInteract
+[2026.10.04-19.07.41:142][536]LogContentBrowser: End creating deferred item NewInputAction
+[2026.10.04-19.07.46:125][739]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2026.10.04-19.07.46:141][739]LogContentBrowser: Creating deferred item: NewInputAction
+[2026.10.04-19.07.46:173][740]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2026.10.04-19.07.53:168][845]LogContentBrowser: Attempting asset rename: NewInputAction -> inputJump
+[2026.10.04-19.07.53:172][845]LogContentBrowser: End creating deferred item NewInputAction
+[2026.10.04-19.07.58:062][ 26]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2026.10.04-19.07.58:077][ 26]LogContentBrowser: Creating deferred item: NewInputAction
+[2026.10.04-19.07.58:108][ 27]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2026.10.04-19.08.07:937][177]LogContentBrowser: Attempting asset rename: NewInputAction -> inputLook
+[2026.10.04-19.08.07:940][177]LogContentBrowser: End creating deferred item NewInputAction
+[2026.10.04-19.08.15:519][439]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2026.10.04-19.08.15:536][439]LogContentBrowser: Creating deferred item: NewInputAction
+[2026.10.04-19.08.15:571][440]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2026.10.04-19.08.23:882][565]LogContentBrowser: Attempting asset rename: NewInputAction -> inputMovement
+[2026.10.04-19.08.23:885][565]LogContentBrowser: End creating deferred item NewInputAction
+[2026.10.04-19.08.45:712][366]LogContentBrowser: Deferred new asset file creation: NewInputMappingContext
+[2026.10.04-19.08.45:764][366]LogContentBrowser: Creating deferred item: NewInputMappingContext
+[2026.10.04-19.08.45:836][367]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputMappingContext).
+[2026.10.04-19.08.55:046][503]LogContentBrowser: Attempting asset rename: NewInputMappingContext -> mappingPlayer
+[2026.10.04-19.08.55:049][503]LogContentBrowser: End creating deferred item NewInputMappingContext
+[2026.10.04-19.10.01:047][578]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.10.04-19.10.01:389][579]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2026.10.04-19.10.01:396][579]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.123
+[2026.10.04-19.10.01:401][579]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/inputs/inputInteract] ([1] browsable assets)...
+[2026.10.04-19.10.01:402][579]OBJ SavePackage: Finished generating thumbnails for package [/Game/inputs/inputInteract]
+[2026.10.04-19.10.01:402][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/inputs/inputInteract" FILE="../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/Autosaves/Game/inputs/inputInteract_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2026.10.04-19.10.01:415][579]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/inputs/inputInteract_Auto1
+[2026.10.04-19.10.01:415][579]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/inputInteract_Auto15FCFA16C4201E21FCDA27A8C4EFD9543.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/Autosaves/Game/inputs/inputInteract_Auto1.uasset'
+[2026.10.04-19.10.01:427][579]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/inputs/inputJump] ([1] browsable assets)...
+[2026.10.04-19.10.01:427][579]OBJ SavePackage: Finished generating thumbnails for package [/Game/inputs/inputJump]
+[2026.10.04-19.10.01:427][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/inputs/inputJump" FILE="../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/Autosaves/Game/inputs/inputJump_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2026.10.04-19.10.01:429][579]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/inputs/inputJump_Auto1
+[2026.10.04-19.10.01:429][579]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/inputJump_Auto18D78C63E41A1BE76AC920BB04DD84E62.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/Autosaves/Game/inputs/inputJump_Auto1.uasset'
+[2026.10.04-19.10.01:432][579]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/inputs/inputLook] ([1] browsable assets)...
+[2026.10.04-19.10.01:432][579]OBJ SavePackage: Finished generating thumbnails for package [/Game/inputs/inputLook]
+[2026.10.04-19.10.01:432][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/inputs/inputLook" FILE="../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/Autosaves/Game/inputs/inputLook_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2026.10.04-19.10.01:433][579]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/inputs/inputLook_Auto1
+[2026.10.04-19.10.01:433][579]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/inputLook_Auto140B071AB4FBE93E3F07CE98B8E62BFB8.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/Autosaves/Game/inputs/inputLook_Auto1.uasset'
+[2026.10.04-19.10.01:438][579]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/inputs/inputMovement] ([1] browsable assets)...
+[2026.10.04-19.10.01:438][579]OBJ SavePackage: Finished generating thumbnails for package [/Game/inputs/inputMovement]
+[2026.10.04-19.10.01:438][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/inputs/inputMovement" FILE="../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/Autosaves/Game/inputs/inputMovement_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2026.10.04-19.10.01:441][579]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/inputs/inputMovement_Auto1
+[2026.10.04-19.10.01:441][579]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/inputMovement_Auto175C9C7624C9E6F2F0EA8E28E310AD03B.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/Autosaves/Game/inputs/inputMovement_Auto1.uasset'
+[2026.10.04-19.10.01:445][579]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/inputs/mappingPlayer] ([1] browsable assets)...
+[2026.10.04-19.10.01:445][579]OBJ SavePackage: Finished generating thumbnails for package [/Game/inputs/mappingPlayer]
+[2026.10.04-19.10.01:445][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/inputs/mappingPlayer" FILE="../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/Autosaves/Game/inputs/mappingPlayer_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2026.10.04-19.10.01:447][579]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/inputs/mappingPlayer_Auto1
+[2026.10.04-19.10.01:447][579]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/mappingPlayer_Auto14DB743CC4040264705DFDFA6E7869039.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/Autosaves/Game/inputs/mappingPlayer_Auto1.uasset'
+[2026.10.04-19.10.01:450][579]LogFileHelpers: Auto-saving content packages took 0.054
+[2026.10.04-19.10.25:783][672]LogSlate: Window 'Save Level As' being destroyed
+[2026.10.04-19.10.26:240][672]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maps/testEnviornment" FILE="../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/maps/testEnviornment.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.10.04-19.10.26:297][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2026.10.04-19.10.26:310][672]LogSavePackage: Moving output files for package: /Game/maps/testEnviornment
+[2026.10.04-19.10.26:310][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/testEnviornment9E5F055D41A48309515D069DC699C344.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/maps/testEnviornment.umap'
+[2026.10.04-19.10.26:502][672]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/maps/testEnviornment_HLOD0_Instancing
+/Game/__ExternalActors__/maps/testEnviornment/5/RV/WLLVHW2WKZQIMZBECP20UJ
+/Game/__ExternalObjects__/maps/testEnviornment/C/U2/TNWGKBCUWKV6K76N1SNHQV
+/Game/__ExternalObjects__/maps/testEnviornment/C/1K/WXVKJLZLASVBNWQPNIT6UP
+/Game/__ExternalObjects__/maps/testEnviornment/4/HU/PRZE6NT9ABH3WQARY3S6PX
+/Game/__ExternalObjects__/maps/testEnviornment/8/2N/KZWB46G2XS2YT7NQFIFIPA
+/Game/__ExternalObjects__/maps/testEnviornment/4/DK/9P6UR9TL3C4ECOPAH2VLFB
+/Game/__ExternalObjects__/maps/testEnviornment/2/BJ/H0FBQJVM8KHN9TMULT4FNX
+/Game/__ExternalActors__/maps/testEnviornment/5/57/518PEG5Z0AARBPR1YXCLRD
+/Game/__ExternalActors__/maps/testEnviornment/C/G9/E2X8HU8X4N8XIVH5RD15E0
+/Game/__ExternalActors__/maps/testEnviornment/8/HT/7IG4TLNFFR5M2LDQTANH8Y
+/Game/__ExternalActors__/maps/testEnviornment/1/KV/0I93HR7A6MMAZ175H318YE
+/Game/__ExternalActors__/maps/testEnviornment/C/RI/MEX3IV6RCK1Z003YDJB318
+/Game/__ExternalActors__/maps/testEnviornment/E/PD/SH4CAO4AWMDL2QWJ0KZOU9
+/Game/__ExternalActors__/maps/testEnviornment/0/OD/JHJ37IV3B1CC8OHP7FNTAZ
+/Game/__ExternalActors__/maps/testEnviornment/8/7G/ZLLFP1EWLJWIB7Z3XWSLHH
+/Game/__ExternalActors__/maps/testEnviornment/7/5N/IXS3QYXGZFFUK7X5G0AYF0
+/Game/__ExternalActors__/maps/testEnviornment/7/LQ/9DWYJNPV3M5UUM920ZE7XS
+/Game/__ExternalActors__/maps/testEnviornment/4/BP/DXHFHZX4Z0EHMIUL3SPSP9
+/Game/__ExternalActors__/maps/testEnviornment/4/NN/EKHCJLD01M9G7Z3Y5I20B2
+/Game/__ExternalActors__/maps/testEnviornment/7/6D/OC03DY73ODIFBJTG9VLIJM
+/Game/__ExternalActors__/maps/testEnviornment/3/D0/4XMHMNE6IN7HZB18SFSXU1
+/Game/__ExternalActors__/maps/testEnviornment/2/N5/VAGYOJGUENSJ1QLWS4BOPE
+/Game/__ExternalActors__/maps/testEnviornment/B/AR/Q5K6T6EHABTON4LP606SK5
+/Game/__ExternalActors__/maps/testEnviornment/9/IV/3TOWDE3I5QD8VCF70IUWAV
+/Game/__ExternalActors__/maps/testEnviornment/4/P5/1FW4C4RMRX5I9P5EY8NPES
+/Game/__ExternalActors__/maps/testEnviornment/B/GA/RV96TL19FWT0B3VG5UYO1C
+/Game/__ExternalActors__/maps/testEnviornment/3/CH/KJHMEM2VYAJTWYAFQPESI5
+/Game/__ExternalActors__/maps/testEnviornment/5/LU/FESCZ2FJIHCP64BZWXPR02
+/Game/__ExternalActors__/maps/testEnviornment/5/FQ/R2QU87UY8EILD42724L6IX
+/Game/__ExternalActors__/maps/testEnviornment/3/ZT/0EQYMTYR3X3A7SOXER3JSP
+/Game/__ExternalActors__/maps/testEnviornment/5/ZO/I16KNY99LMJ8DJAKXGBACL
+/Game/__ExternalActors__/maps/testEnviornment/3/KK/SCCXF8CA7A1Z98AIA411DY
+/Game/__ExternalActors__/maps/testEnviornment/1/6S/CB7TC21ZOMWX7JQPC5HNVG
+/Game/__ExternalActors__/maps/testEnviornment/E/3P/JNZ2KISWP8CAXEW3QYH9CL
+/Game/__ExternalActors__/maps/testEnviornment/E/4Y/PTPU6JQ45DAG078Y6ECRTE
+/Game/__ExternalActors__/maps/testEnviornment/A/7N/XBOJ5N2CAXYVVFSIO6EW65
+/Game/__ExternalActors__/maps/testEnviornment/B/X2/8NC63M6HFK7NSRSH3RELX0
+/Game/__ExternalActors__/maps/testEnviornment/2/HU/067CNWCYZCZDYJQ3GN82FU
+/Game/__ExternalActors__/maps/testEnviornment/4/C5/CO3437O8L0PU7TWHCIRTOG
+/Game/__ExternalActors__/maps/testEnviornment/6/J6/G8BVX7S8TT95QFHEPIGO9P
+/Game/__ExternalActors__/maps/testEnviornment/6/6W/VJ2I15QWY72BJPQKK71BN4
+/Game/__ExternalActors__/maps/testEnviornment/5/XR/Q3NIOPXOHZWWROQ9O6SNK7
+/Game/__ExternalActors__/maps/testEnviornment/3/YE/0QVWZOAVTSCDI91FZX4P0Y
+/Game/__ExternalActors__/maps/testEnviornment/4/KF/QI22BN05ZW6BKO3LJRLZ3N
+/Game/__ExternalActors__/maps/testEnviornment/D/RI/QFWRP6U5LXOCHKOEFN36HS
+/Game/__ExternalActors__/maps/testEnviornment/3/GU/J0VN5NF7VIYG1XGL6C27GJ
+/Game/__ExternalActors__/maps/testEnviornment/3/B1/66MXI49JKDJ38BVMNLBM3E
+/Game/__ExternalActors__/maps/testEnviornment/E/AK/XMMQPBCHNE7PR753U3UF23
+/Game/__ExternalActors__/maps/testEnviornment/9/H4/4IRZ6UUYU2FII2QY0TAZWK
+/Game/__ExternalActors__/maps/testEnviornment/3/LL/3E1V2PRO2WYU9JGRDJ0F1B
+/Game/__ExternalActors__/maps/testEnviornment/0/73/2WDKPX159YIJN0UA6TLRSD
+/Game/__ExternalActors__/maps/testEnviornment/D/UP/YTY2D91YSKZE3CRJGBW2XJ
+/Game/__ExternalActors__/maps/testEnviornment/2/G5/KYM50EX97ZO7E50DSRLH7Z
+/Game/__ExternalActors__/maps/testEnviornment/1/12/3G5WMCBV9PYZTFQTVESL54
+/Game/__ExternalActors__/maps/testEnviornment/3/CI/3KCURI93G9Z6HO67T2ZKH9
+/Game/__ExternalActors__/maps/testEnviornment/8/UW/AF7POQPT4PDEBE4RRWWH01
+/Game/__ExternalActors__/maps/testEnviornment/7/NY/RZOCMH5U6KDKS2VT6EM0IS
+/Game/__ExternalActors__/maps/testEnviornment/4/KC/OSDHBBRUQ1BYMN17P9NXNF
+/Game/__ExternalActors__/maps/testEnviornment/9/CF/QA46PT05T2NVGVNXAQTDOQ
+/Game/__ExternalActors__/maps/testEnviornment/3/5A/JZ53988NNO748J428SKWAA
+/Game/__ExternalActors__/maps/testEnviornment/2/SN/D928TGUQL6TSVGADOW9G7G
+/Game/__ExternalActors__/maps/testEnviornment/A/W4/FRB3KSE67XSKDDD008V7IS
+/Game/__ExternalActors__/maps/testEnviornment/D/48/URFWYUM2NL2C0N0X6H0VET
+/Game/__ExternalActors__/maps/testEnviornment/6/0Z/QALP0KGSKTDCHYOWBH00TC
+/Game/__ExternalActors__/maps/testEnviornment/D/KB/17CQYA7LACNCQ4IK523S4U
+/Game/__ExternalActors__/maps/testEnviornment/8/Z2/LQI3UWNTUWXS4YTW8R2ZOL
+/Game/__ExternalActors__/maps/testEnviornment/E/6A/ENL0OWY2HRYV052HVCPAB9
+/Game/__ExternalActors__/maps/testEnviornment/5/ZF/B1UH0J19Y2VUK90EVX9223
+/Game/__ExternalActors__/maps/testEnviornment/8/I4/FM7K3KA4V81EAVXB86NF00
+/Game/__ExternalActors__/maps/testEnviornment/D/L8/RHHCCGI7679GMYDIZYHQQS
+/Game/__ExternalActors__/maps/testEnviornment/9/X8/EXRC9AS385205TK6LM84GJ
+/Game/__ExternalActors__/maps/testEnviornment/1/3Q/EAG4BS2DPHIK2XK2NND0XW
+/Game/__ExternalActors__/maps/testEnviornment/3/EC/0V2G0J8DX3DNGTSVL53KTE
+/Game/__ExternalActors__/maps/testEnviornment/5/GY/O1UEJHY8P8XD96235LC4PP
+/Game/__ExternalActors__/maps/testEnviornment/0/MZ/5PNEY3SF69UX7T47UZ0L9Y
+/Game/__ExternalActors__/maps/testEnviornment/2/V3/DCW0QKDUNXNFY4SC2NQ1ID
+/Game/__ExternalActors__/maps/testEnviornment/D/5Z/AEPGC9ISM3EWFKTPEKIXEC
+/Game/__ExternalActors__/maps/testEnviornment/A/JQ/JKQR4DLLNM14GIYDEONLMN
+/Game/__ExternalActors__/maps/testEnviornment/9/NO/AYYH53BAPU6S2DXDX3VW0J
+/Game/__ExternalActors__/maps/testEnviornment/1/QM/E0DKBL2TY5TRDBG0P2PN7H
+/Game/__ExternalActors__/maps/testEnviornment/7/63/LM023UU1VHRJSPAJ1TQPML
+/Game/__ExternalActors__/maps/testEnviornment/D/HH/OY29LNIR2LNYQ17X76J5S5
+/Game/__ExternalActors__/maps/testEnviornment/4/C1/XLN1OLNDB694QWB7U4ZLMN
+/Game/__ExternalActors__/maps/testEnviornment/2/UF/HQ3LWFTD9PLO9A0SJYKW1R
+/Game/__ExternalActors__/maps/testEnviornment/C/5I/OWZ14ULEZAEJFA07EXB7XJ
+/Game/__ExternalActors__/maps/testEnviornment/E/AN/2GTWNGC0DZNSNMBA2XYX0W
+/Game/__ExternalActors__/maps/testEnviornment/4/0B/4G2S0SB0OQ7NT9TIJRG1IX
+/Game/__ExternalActors__/maps/testEnviornment/D/6I/H838KO1AS7MZQY9YW0R85Z
+/Game/__ExternalActors__/maps/testEnviornment/8/UK/Y4AICDJPBP6BUSC1K3CCWC
+/Game/__ExternalActors__/maps/testEnviornment/0/2R/9TP27SKQ5TPPPJXI93JHHB
+/Game/__ExternalActors__/maps/testEnviornment/6/2U/2B7L89GVL1VQTEGG85JXL7
+/Game/__ExternalActors__/maps/testEnviornment/4/EH/5T3XYY52DWRM2BF04MGLUB
+/Game/__ExternalActors__/maps/testEnviornment/5/RE/7CHG16SPORDJ54HG2WI5VU
+/Game/__ExternalActors__/maps/testEnviornment/2/7N/YTPXHNC1UVUBQVC4JJMP94
+/Game/__ExternalActors__/maps/testEnviornment/6/IM/2O6HZT4ODMQZMVDIEHPXGC
+/Game/__ExternalActors__/maps/testEnviornment/5/MS/DNAAJ5ZCP6S7QQPYDIW90N
+/Game/__ExternalActors__/maps/testEnviornment/D/N0/262Z07NP1VWWNXK1JDXBOB
+/Game/__ExternalActors__/maps/testEnviornment/A/NW/URJ073QXF09ZWNP3P7H96C
+/Game/__ExternalActors__/maps/testEnviornment/B/RC/XQN56CBLXFUZ7FG0YQU0EF
+/Game/__ExternalActors__/maps/testEnviornment/5/A8/T1A1A5J4CE1TWAKSN96818
+/Game/__ExternalActors__/maps/testEnviornment/2/2S/3YFF7QNMFUSZXMV6CUBOI7
+/Game/__ExternalActors__/maps/testEnviornment/7/C7/WC6IO6SLKQC4TU9CUJOB5S
+/Game/__ExternalActors__/maps/testEnviornment/E/0S/NO0MMNYTKGHCL5X32QIEX2
+/Game/__ExternalActors__/maps/testEnviornment/C/3P/1BKEWMV4Q2F0EF0JQ094D6
+/Game/__ExternalActors__/maps/testEnviornment/9/SP/XJDCB60MT9HBRCL0ME0RNE
+/Game/__ExternalActors__/maps/testEnviornment/C/KA/BXBB72EQG2A0O6YE72ODL6
+/Game/__ExternalActors__/maps/testEnviornment/B/KE/IPVIY7ZKYXACGX3MUZ5ZH8
+/Game/__ExternalActors__/maps/testEnviornment/2/J4/QRW6CM8V6OYJRYTD4JH73K
+/Game/__ExternalActors__/maps/testEnviornment/D/S5/UG8VLD9ZFVCRGO2C3JX8NL
+/Game/__ExternalActors__/maps/testEnviornment/D/XP/PYCGSSSJ5UQM4551IQC9PG
+/Game/__ExternalActors__/maps/testEnviornment/6/5Y/2MCKTA59DPVTGS9PZ8JU4S
+/Game/__ExternalActors__/maps/testEnviornment/B/WW/T0M22JAZQJV0QZ4KJPZ3G8
+/Game/__ExternalActors__/maps/testEnviornment/E/O2/YMO8LYCAT7AUMQFD4A6HIL
+/Game/__ExternalActors__/maps/testEnviornment/A/84/QDGR9VW1DDE29MN4J44SVK
+/Game/__ExternalActors__/maps/testEnviornment/2/9V/EIQDHGIU7PJHRF6HWITYNN
+/Game/__ExternalActors__/maps/testEnviornment/E/0N/LNNIBO2VLWYYMZW4JP5P4L
+/Game/__ExternalActors__/maps/testEnviornment/B/1Q/YO0U3NEV0DHXXPR38YC03V
+/Game/__ExternalActors__/maps/testEnviornment/B/DD/Q90F75NIOJ379NV4QGY8WG
+/Game/__ExternalActors__/maps/testEnviornment/E/HG/6WDHAIYG6JCTRFE2TMH3IG
+/Game/__ExternalActors__/maps/testEnviornment/C/4U/P61AY8IETKHVHTU3GFTHB7
+/Game/__ExternalActors__/maps/testEnviornment/2/3P/ZD5146YQY1T7GHELHZ9YLM
+/Game/__ExternalActors__/maps/testEnviornment/8/BT/M7VGY1PIEESU0GHLJSXRFI
+/Game/__ExternalActors__/maps/testEnviornment/D/HA/HC1QHD9N8673M6T0CELO5B
+/Game/__ExternalActors__/maps/testEnviornment/5/4Y/U384NG3GTKZUVJEPAJ3JPG
+/Game/__ExternalActors__/maps/testEnviornment/4/DL/2L33W7HZ3T5PINI6G6UO91
+/Game/__ExternalActors__/maps/testEnviornment/B/3I/6FIVS8TJV71ZG10AKAXN6A
+/Game/__ExternalActors__/maps/testEnviornment/9/HB/VSQ4W7OTRT1V335SWYY59C
+/Game/__ExternalActors__/maps/testEnviornment/3/QB/170TMF20F2XIDRDD5OI891
+/Game/__ExternalActors__/maps/testEnviornment/7/YJ/UPS1O4XI3U8JSKRNQFKX7J
+/Game/__ExternalActors__/maps/testEnviornment/D/IB/OF4DM4W6QGPZH2USUQJDWW
+/Game/__ExternalActors__/maps/testEnviornment/4/9V/66XX5FCTN6F0YALTI22NKS
+/Game/__ExternalActors__/maps/testEnviornment/6/PM/C15JNWB3RJA9ENCPHLJYKA
+/Game/__ExternalActors__/maps/testEnviornment/8/XA/BDI1DWAFBIP65GSIG03KLN
+/Game/__ExternalActors__/maps/testEnviornment/9/25/KDJBK9GOBMGQUDASB5N13G
+/Game/__ExternalActors__/maps/testEnviornment/8/YG/O8DA3WV4OO1IHO5EAMG9U7
+/Game/__ExternalActors__/maps/testEnviornment/7/JI/ADC5YRL8F0WWKIUBDDO9N3
+/Game/__ExternalActors__/maps/testEnviornment/8/JD/RXJG2LF16FEWFV0UJIVW6O
+/Game/__ExternalActors__/maps/testEnviornment/3/0U/SCWG39O87GIBB1YYVXMVDQ
+/Game/__ExternalActors__/maps/testEnviornment/0/UN/V8AWGJZYH8VDUIDPN8L9RR
+/Game/__ExternalActors__/maps/testEnviornment/5/2X/JLLWJAJVF77LKA4OA1AN4A
+/Game/__ExternalActors__/maps/testEnviornment/5/XW/IKLIC6HEA6OMQTNAIOKW50
+/Game/__ExternalActors__/maps/testEnviornment/E/8M/V1TJHLLDUFGG7O1PTGHBWZ
+/Game/__ExternalActors__/maps/testEnviornment/A/4Z/Q99VM1TR0LZGR613BMRU8O
+/Game/__ExternalActors__/maps/testEnviornment/A/RU/ZVFA00FDIUZXEZQJYBNI61
+/Game/__ExternalObjects__/maps/testEnviornment/3/JC/AKNKW35M2D6WEBSK5H8G3O
+/Game/__ExternalObjects__/maps/testEnviornment/7/GQ/F6CN9E8ZUQWLI1QSQJT99B
+/Game/__ExternalObjects__/maps/testEnviornment/D/E0/V2AEJUDFZM9PZFCDAB1K19
+/Game/__ExternalObjects__/maps/testEnviornment/4/CO/IUNU1DOC7HUD4T8LASTLJ7
+/Game/__ExternalObjects__/maps/testEnviornment/0/WV/7M5B31WCGSI2KEKALPSLGX
+/Game/__ExternalObjects__/maps/testEnviornment/9/ZF/0KBCUMPTPNQ5BP06PXHZV3
+/Game/__ExternalObjects__/maps/testEnviornment/5/SZ/02CS4TKXHESU8SKUUUYU3C
+/Game/__ExternalObjects__/maps/testEnviornment/8/KS/KOEXRS1YD2W2W8Q19YURTK
+/Game/__ExternalObjects__/maps/testEnviornment/0/TH/WGRSJHRXHCYEVWUQ16IYVB
+/Game/__ExternalObjects__/maps/testEnviornment/6/LG/GPLB79NCR8RA8DVRQA8FQG
+/Game/__ExternalObjects__/maps/testEnviornment/9/XC/MQ53RQLFWMXZUT8FP5OK6Z
+/Game/__ExternalObjects__/maps/testEnviornment/E/3M/YHVBPLITGUCOYD2SOGR496
+/Game/__ExternalObjects__/maps/testEnviornment/6/40/JVQ5E6I9FCV5FLU4Y5UJQU
+/Game/__ExternalObjects__/maps/testEnviornment/8/2H/LKGDD0K4A2A8LEYKOFS38J
+/Game/__ExternalObjects__/maps/testEnviornment/4/QJ/68LFEU3YKWCSDQI6BNN5NP
+/Game/__ExternalObjects__/maps/testEnviornment/C/6U/3E5U7WJLSU20A4HNKVREAT
+/Game/__ExternalObjects__/maps/testEnviornment/B/T7/R7A4LJK1Z33QDFFM2Y3IS9
+/Game/__ExternalObjects__/maps/testEnviornment/4/JU/R5JZNZ547BQQXPQ60OR09E
+/Game/__ExternalObjects__/maps/testEnviornment/E/QZ/JX7T9STL03GDLN3GO8UQN0
+/Game/__ExternalObjects__/maps/testEnviornment/E/M7/M6Q4TVZXRTB8T02986STTE
+/Game/__ExternalObjects__/maps/testEnviornment/6/RJ/3JBJE05EEF0GP03N3A56OM
+/Game/__ExternalObjects__/maps/testEnviornment/A/9Y/3Q9QVRYGKKPJYY470C3653
+/Game/__ExternalObjects__/maps/testEnviornment/7/3Y/MJR8YAWTWTNFI6OBG8JUZE
+/Game/__ExternalObjects__/maps/testEnviornment/E/QV/S1Q3TVOB6CKZDLN3GO4BQ7
+/Game/__ExternalObjects__/maps/testEnviornment/2/Y8/YGRSNJRN80UF55M83POIY8
+/Game/__ExternalObjects__/maps/testEnviornment/6/LB/VK8VH3W30FFNSP3Q1GICBL
+/Game/__ExternalObjects__/maps/testEnviornment/E/7Q/W6MJ2SF5HDU5716WZQYD1Z
+/Game/__ExternalObjects__/maps/testEnviornment/E/MN/G7TNESFQDWSUO5HC5BS8D2
+/Game/__ExternalObjects__/maps/testEnviornment/C/L6/NBF3QAHH7HN85QLR2MU2BE
+/Game/__ExternalObjects__/maps/testEnviornment/5/MK/IPZUYJK4KZPH4W9ZFKKAJ9
+/Game/__ExternalObjects__/maps/testEnviornment/B/SW/TOW5M9YATTKFU9QQQASASG
+/Game/__ExternalObjects__/maps/testEnviornment/2/89/IULJE885NHXZ5XXPS2K0IE
+/Game/__ExternalObjects__/maps/testEnviornment/7/DA/D3CRNLPSV0Y5GOVKNYTG2W
+/Game/__ExternalObjects__/maps/testEnviornment/0/SL/7ZLH0TCLZ3FSQKFKM8ETMJ
+/Game/__ExternalObjects__/maps/testEnviornment/A/UA/SBXX2A4SA35SLI5ATWOENH
+/Game/__ExternalObjects__/maps/testEnviornment/D/TA/CR4REUYQ3A3US1AEGYAAQC
+/Game/__ExternalObjects__/maps/testEnviornment/1/LW/D4XH9HSYB0BQTVAOOY6QG6
+/Game/__ExternalObjects__/maps/testEnviornment/B/96/2PQ5SDRKSA67BUXX6O32FG
+/Game/__ExternalObjects__/maps/testEnviornment/A/RC/P4GGIDU37MF8TN0NWAA1HX
+/Game/__ExternalObjects__/maps/testEnviornment/6/AW/JQTTMV9179K26EKFFTSO1M
+/Game/__ExternalObjects__/maps/testEnviornment/9/JD/363190TA1XMB0KIHUKCKE9
+/Game/__ExternalObjects__/maps/testEnviornment/7/GO/T9VRW104UIFX9T0E93IBT0
+/Game/__ExternalObjects__/maps/testEnviornment/8/53/TRKCMERBFNG11QUIZIYM3U
+/Game/__ExternalObjects__/maps/testEnviornment/B/IF/R02HVTYQM5J4DINIVZ1Q17
+/Game/__ExternalObjects__/maps/testEnviornment/B/7S/ASTF0J4BJEJ00G6QX0HY5Y
+/Game/__ExternalObjects__/maps/testEnviornment/7/F1/4YHGG59LNM588QU4AWC4QQ
+/Game/__ExternalObjects__/maps/testEnviornment/5/WB/UEKLGTSCJFCDCY5CLT7SIN
+/Game/__ExternalObjects__/maps/testEnviornment/A/22/2PWTE8ZW1W5SULHM70J5BP
+/Game/__ExternalObjects__/maps/testEnviornment/7/UF/6AOMKYAHW64KXSXPCITWHI
+/Game/__ExternalObjects__/maps/testEnviornment/A/DV/555SUYISL1720JBKN87Y9G
+/Game/__ExternalObjects__/maps/testEnviornment/4/PL/4XJ474PZ6EN40TMUW83YXX
+/Game/__ExternalObjects__/maps/testEnviornment/B/1I/EF19MTAY6OCWVD5CF7T6IP
+/Game/__ExternalObjects__/maps/testEnviornment/E/Z1/7GSPBLWBCX2PGT4APL6L1Z
+/Game/__ExternalObjects__/maps/testEnviornment/5/F6/M7S6HOZ23V9BRJUJDVLDJD
+/Game/__ExternalObjects__/maps/testEnviornment/B/YR/Z77SWPINBNYWUBLSSCM92L
+/Game/__ExternalObjects__/maps/testEnviornment/A/QJ/K223U1UXWYBF3KMOBCLWDD
+/Game/__ExternalObjects__/maps/testEnviornment/9/M4/HD33Y5F08EEFZE988ZD7NZ
+/Game/__ExternalObjects__/maps/testEnviornment/2/4V/H0C18HT9C4S0ZJ67WWJUBG
+/Game/__ExternalObjects__/maps/testEnviornment/C/3K/00S5YZXHN3GG9E1J6K7COM
+/Game/__ExternalObjects__/maps/testEnviornment/6/9D/KW58SP331JK7WQOSKJ5873
+/Game/__ExternalObjects__/maps/testEnviornment/9/2W/V9A5W9XHSXTX3EL802V5LO
+/Game/__ExternalObjects__/maps/testEnviornment/8/9G/G6NNT446C6LX0WHRAWS2MO
+/Game/__ExternalObjects__/maps/testEnviornment/D/V3/M55B74RWKZ8HEXBZCJ4NCC
+/Game/__ExternalObjects__/maps/testEnviornment/D/2N/CS7DIPSCZVBFY1T10MFT77
+/Game/__ExternalObjects__/maps/testEnviornment/F/0C/52OR9Q20YLEJKPKNWM8PCA
+/Game/__ExternalObjects__/maps/testEnviornment/7/PU/P704214OGFH9YEIH13BRYE
+/Game/__ExternalObjects__/maps/testEnviornment/E/8Y/5CS3A8V5ITO03S7K6HYWHE
+/Game/__ExternalObjects__/maps/testEnviornment/0/ZG/5ADXCL4ZTF4JF8HBYIISFG
+/Game/__ExternalObjects__/maps/testEnviornment/1/WN/0YL9X7F83BVKU3E84BHFRE
+/Game/__ExternalObjects__/maps/testEnviornment/D/S2/Q1OZDNIQD6PV2S1YMPD5WN
+/Game/__ExternalObjects__/maps/testEnviornment/8/MC/86FLQDN1OQD55RVO4USJWL
+/Game/__ExternalObjects__/maps/testEnviornment/7/0G/3STVX062M8K3M7TERFTYMM
+/Game/__ExternalObjects__/maps/testEnviornment/B/AR/S7C21LHAK8GJDPUM9L8S7E
+/Game/__ExternalObjects__/maps/testEnviornment/3/02/1G8SLW4IJF5HH4ZPA7F2W0
+/Game/__ExternalObjects__/maps/testEnviornment/1/AG/C0FCDRXP1TO5WLGYL3DP8H
+/Game/__ExternalObjects__/maps/testEnviornment/7/WK/PIPVETI1RP9KI9W3D4HKJX
+/Game/__ExternalObjects__/maps/testEnviornment/7/Q4/L5MJ3HF7IO5YP21NFSJ2EZ
+/Game/__ExternalObjects__/maps/testEnviornment/D/EP/QXMR6N2XMYHG4I8RJQP1SL
+/Game/__ExternalObjects__/maps/testEnviornment/E/2D/5YMBHGFTZ7OHAR7T148OUE
+/Game/__ExternalObjects__/maps/testEnviornment/0/XL/1TN2HNBXPV9D1QALF8WC6J
+/Game/__ExternalObjects__/maps/testEnviornment/A/JW/3WWRU57EM0LY1O9X4ULGZ9
+/Game/__ExternalObjects__/maps/testEnviornment/4/4T/MA0BJQDABOGA0723JZAEV7
+/Game/__ExternalObjects__/maps/testEnviornment/3/NG/C1ST55TL3E8CWUCSY6PCZE
+/Game/__ExternalObjects__/maps/testEnviornment/4/VK/91UC4W6IT88U50ALGISLLN
+/Game/__ExternalObjects__/maps/testEnviornment/7/H3/WXFX6XJUCP66Y4R8VQ7NX9
+/Game/__ExternalObjects__/maps/testEnviornment/2/BN/UDZ90GPGCX1MPTDX5ANBCZ
+/Game/__ExternalObjects__/maps/testEnviornment/1/MA/YHYPH6CJHRMZ4WE9UZWDMM
+/Game/__ExternalObjects__/maps/testEnviornment/4/BX/V5XLFAWO9TZO7PUGP4CN6Y
+/Game/__ExternalObjects__/maps/testEnviornment/1/JO/UQ7RQ4GIRA3IJ36BHYUFNY
+/Game/__ExternalObjects__/maps/testEnviornment/D/5Z/KNOCJM3SSE7Z55XKIGOPJB
+/Game/__ExternalObjects__/maps/testEnviornment/9/OJ/3YLMG4BD3GZUNSNHVAHJXF
+/Game/__ExternalObjects__/maps/testEnviornment/4/VF/8OH4UPY9F4MUY8O2UZKNE4
+/Game/__ExternalObjects__/maps/testEnviornment/5/VX/OGJRTZ4F8PP54U4RKMTPRC
+/Game/__ExternalObjects__/maps/testEnviornment/B/BE/DXNJTKM4O51Q07FI55JBFS
+/Game/__ExternalObjects__/maps/testEnviornment/F/0E/7NDJ38YFIAC3CV60XURPI6
+/Game/__ExternalObjects__/maps/testEnviornment/8/JC/3YA1SW39HAV4XB1G4SCKCT
+/Game/__ExternalObjects__/maps/testEnviornment/2/KK/WU9JLYR3STINL3Z8XVXTAD
+/Game/__ExternalObjects__/maps/testEnviornment/E/IF/912PH1YBWNKVQKT9LPLSI5
+/Game/__ExternalObjects__/maps/testEnviornment/D/57/X3C89GID16KL021YHLZRLU
+/Game/__ExternalObjects__/maps/testEnviornment/D/0V/L5T47ZT31EJR7OIL9U8A9U
+/Game/__ExternalObjects__/maps/testEnviornment/6/RO/0XLE4WPJRBTUMUM8FKGA1D
+/Game/__ExternalObjects__/maps/testEnviornment/6/B2/41C7MZ6PE1TJLOEQVIZZEH
+/Game/__ExternalObjects__/maps/testEnviornment/B/9B/H6E3GXK6AC3NVEZ1AN6IC6
+/Game/__ExternalObjects__/maps/testEnviornment/A/B6/8D8EDWFN9P715BOP9XMKL9
+/Game/__ExternalObjects__/maps/testEnviornment/5/XH/6USKJTE79Q43BHRYEUIFC2
+/Game/__ExternalObjects__/maps/testEnviornment/8/41/CBQXCYH60W7WETKL2MNFYR
+/Game/__ExternalObjects__/maps/testEnviornment/D/8X/2R96NOJPF609F1AKQ96ZRI
+/Game/__ExternalObjects__/maps/testEnviornment/9/BB/A0L3TEGNYE07SM5GBZRLRH
+/Game/__ExternalObjects__/maps/testEnviornment/6/EH/Q1UE79ZHVRU55M99ZW85YI
+/Game/__ExternalObjects__/maps/testEnviornment/1/VE/TTSWM4M0PJYT8JG8M7QW9R
+/Game/__ExternalObjects__/maps/testEnviornment/0/HF/XHY92X74FY62KHMNLM3WOX
+/Game/__ExternalObjects__/maps/testEnviornment/A/HN/6NAMD1WCKU5KZL1XCOMXFK
+/Game/__ExternalObjects__/maps/testEnviornment/8/6U/D9WU49D3LLOP9YF9QLDWFA
+/Game/__ExternalObjects__/maps/testEnviornment/4/XX/Y1LFY285J6MVJCSM85MIVY
+/Game/__ExternalObjects__/maps/testEnviornment/0/7J/1E2YG9XP0E4IVKGMC133XK
+/Game/__ExternalObjects__/maps/testEnviornment/E/BU/GOU88J9QKJHSR9RZ6E7KI7
+/Game/__ExternalObjects__/maps/testEnviornment/2/CB/0E40DBPKCKZSQFFUILDEIX
+/Game/__ExternalObjects__/maps/testEnviornment/0/3G/DHHRSCB5ZHLMBSJB1UQPJT
+/Game/__ExternalObjects__/maps/testEnviornment/0/RU/SIDGRG41SK7XZLY6G5NWDN
+/Game/__ExternalObjects__/maps/testEnviornment/7/Y3/J0FZMYVW0YSK618UQ79TPX
+/Game/__ExternalObjects__/maps/testEnviornment/1/YW/XNF7ZL84N387WAWRIIER4S
+/Game/__ExternalObjects__/maps/testEnviornment/A/RW/ZUUDFJ4V221W11Z08TS87R
+/Game/__ExternalObjects__/maps/testEnviornment/A/0Y/7ARS5DH879E7UIF1Q04WGZ
+/Game/__ExternalObjects__/maps/testEnviornment/9/85/ZR6ZA27KGIAHH7JQFCBJAY
+/Game/__ExternalObjects__/maps/testEnviornment/6/6W/QXZB8Q5CWM3GZX3KUW26MS
+/Game/__ExternalObjects__/maps/testEnviornment/8/5B/D59868V9YHKQ9FRNCZ71DF
+/Game/__ExternalObjects__/maps/testEnviornment/0/9M/1HG444P7C1ED7UHSSGZXIC
+/Game/__ExternalObjects__/maps/testEnviornment/2/ID/D7DOYONERR2XQ9SRZ97UIA
+/Game/__ExternalObjects__/maps/testEnviornment/C/8E/XCRX0TQ6ZYPKNO8E5MYITQ
+/Game/__ExternalObjects__/maps/testEnviornment/3/80/YN6J3CFISKLAXJAASM5IK1
+/Game/__ExternalObjects__/maps/testEnviornment/0/KT/SFYXC6R0E8XPRHLXQ7RZJS
+/Game/__ExternalObjects__/maps/testEnviornment/E/PF/ZP2WS19K7QIXS78BUY889H
+/Game/__ExternalObjects__/maps/testEnviornment/8/TB/097VD88VD1I9UU16OR8LOQ
+/Game/__ExternalObjects__/maps/testEnviornment/2/HP/6FQB8SQZ5FOZWI0NCKD355
+/Game/__ExternalObjects__/maps/testEnviornment/E/JS/84QKBCTTIBQZUJYCBJP8PW
+/Game/__ExternalObjects__/maps/testEnviornment/B/29/YIN9QNKVD7SCE18RLBVBOT
+/Game/__ExternalObjects__/maps/testEnviornment/6/CP/NG16LPH8ZX4BSOF069T60C
+/Game/__ExternalObjects__/maps/testEnviornment/7/8Q/2A6G7Z39L9BNX27ZG8DEPW
+[2026.10.04-19.10.26:504][672]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.04-19.10.26:620][672]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2026.10.04-19.10.26:673][672]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.10.04-19.10.26:713][672]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2026.10.04-19.10.26:718][672]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/maps/testEnviornment_HLOD0_Instancing] ([1] browsable assets)...
+[2026.10.04-19.10.26:718][672]OBJ SavePackage: Finished generating thumbnails for package [/Game/maps/testEnviornment_HLOD0_Instancing]
+[2026.10.04-19.10.26:718][672]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/maps/testEnviornment_HLOD0_Instancing" FILE="../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/maps/testEnviornment_HLOD0_Instancing.uasset" SILENT=true
+[2026.10.04-19.10.26:720][672]LogSavePackage: Moving output files for package: /Game/maps/testEnviornment_HLOD0_Instancing
+[2026.10.04-19.10.26:720][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/testEnviornment_HLOD0_InstancingDA3E95AC48C616901C8A508EAA4C8F22.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/maps/testEnviornment_HLOD0_Instancing.uasset'
+[2026.10.04-19.10.26:729][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/5/RV/WLLVHW2WKZQIMZBECP20UJ
+[2026.10.04-19.10.26:729][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/WLLVHW2WKZQIMZBECP20UJ3CCE8B9A4F3797D0FC9E96A785680484.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/5/RV/WLLVHW2WKZQIMZBECP20UJ.uasset'
+[2026.10.04-19.10.26:740][672]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/maps/testEnviornment/C/U2/TNWGKBCUWKV6K76N1SNHQV] ([1] browsable assets)...
+[2026.10.04-19.10.26:740][672]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/maps/testEnviornment/C/U2/TNWGKBCUWKV6K76N1SNHQV]
+[2026.10.04-19.10.26:743][672]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/maps/testEnviornment/C/U2/TNWGKBCUWKV6K76N1SNHQV
+[2026.10.04-19.10.26:743][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/TNWGKBCUWKV6K76N1SNHQVB825533F4A713D324ABC07A928DCD73C.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalObjects__/maps/testEnviornment/C/U2/TNWGKBCUWKV6K76N1SNHQV.uasset'
+[2026.10.04-19.10.26:754][672]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/maps/testEnviornment/C/1K/WXVKJLZLASVBNWQPNIT6UP] ([1] browsable assets)...
+[2026.10.04-19.10.26:755][672]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/maps/testEnviornment/C/1K/WXVKJLZLASVBNWQPNIT6UP]
+[2026.10.04-19.10.26:757][672]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/maps/testEnviornment/C/1K/WXVKJLZLASVBNWQPNIT6UP
+[2026.10.04-19.10.26:757][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/WXVKJLZLASVBNWQPNIT6UPC5ED99BA4FE5C511F5A11BB5DC94F3D8.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalObjects__/maps/testEnviornment/C/1K/WXVKJLZLASVBNWQPNIT6UP.uasset'
+[2026.10.04-19.10.26:761][672]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/maps/testEnviornment/4/HU/PRZE6NT9ABH3WQARY3S6PX] ([1] browsable assets)...
+[2026.10.04-19.10.26:762][672]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/maps/testEnviornment/4/HU/PRZE6NT9ABH3WQARY3S6PX]
+[2026.10.04-19.10.26:764][672]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/maps/testEnviornment/4/HU/PRZE6NT9ABH3WQARY3S6PX
+[2026.10.04-19.10.26:764][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/PRZE6NT9ABH3WQARY3S6PX12037A0440E56A33070BA5BF1ABD814B.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalObjects__/maps/testEnviornment/4/HU/PRZE6NT9ABH3WQARY3S6PX.uasset'
+[2026.10.04-19.10.26:770][672]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/maps/testEnviornment/8/2N/KZWB46G2XS2YT7NQFIFIPA] ([1] browsable assets)...
+[2026.10.04-19.10.26:771][672]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/maps/testEnviornment/8/2N/KZWB46G2XS2YT7NQFIFIPA]
+[2026.10.04-19.10.26:773][672]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/maps/testEnviornment/8/2N/KZWB46G2XS2YT7NQFIFIPA
+[2026.10.04-19.10.26:773][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/KZWB46G2XS2YT7NQFIFIPA81CABD034C0BB3EF54F670986D8CF813.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalObjects__/maps/testEnviornment/8/2N/KZWB46G2XS2YT7NQFIFIPA.uasset'
+[2026.10.04-19.10.26:779][672]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/maps/testEnviornment/4/DK/9P6UR9TL3C4ECOPAH2VLFB] ([1] browsable assets)...
+[2026.10.04-19.10.26:779][672]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/maps/testEnviornment/4/DK/9P6UR9TL3C4ECOPAH2VLFB]
+[2026.10.04-19.10.26:780][672]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/maps/testEnviornment/4/DK/9P6UR9TL3C4ECOPAH2VLFB
+[2026.10.04-19.10.26:780][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/9P6UR9TL3C4ECOPAH2VLFB0495CC1A4B239D36522261A2315CED83.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalObjects__/maps/testEnviornment/4/DK/9P6UR9TL3C4ECOPAH2VLFB.uasset'
+[2026.10.04-19.10.26:785][672]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/__ExternalObjects__/maps/testEnviornment/2/BJ/H0FBQJVM8KHN9TMULT4FNX] ([1] browsable assets)...
+[2026.10.04-19.10.26:786][672]OBJ SavePackage: Finished generating thumbnails for package [/Game/__ExternalObjects__/maps/testEnviornment/2/BJ/H0FBQJVM8KHN9TMULT4FNX]
+[2026.10.04-19.10.26:788][672]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/maps/testEnviornment/2/BJ/H0FBQJVM8KHN9TMULT4FNX
+[2026.10.04-19.10.26:788][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/H0FBQJVM8KHN9TMULT4FNX751381984B7F534C19611F82DA629D05.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalObjects__/maps/testEnviornment/2/BJ/H0FBQJVM8KHN9TMULT4FNX.uasset'
+[2026.10.04-19.10.26:940][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/5/57/518PEG5Z0AARBPR1YXCLRD
+[2026.10.04-19.10.26:940][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/518PEG5Z0AARBPR1YXCLRD1EB878A94A0252254A35AF9F14756577.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/5/57/518PEG5Z0AARBPR1YXCLRD.uasset'
+[2026.10.04-19.10.26:951][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/C/G9/E2X8HU8X4N8XIVH5RD15E0
+[2026.10.04-19.10.26:951][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/E2X8HU8X4N8XIVH5RD15E01842B4624A8C8E5BCD1C41B7BB9E2517.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/C/G9/E2X8HU8X4N8XIVH5RD15E0.uasset'
+[2026.10.04-19.10.26:962][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/8/HT/7IG4TLNFFR5M2LDQTANH8Y
+[2026.10.04-19.10.26:962][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/7IG4TLNFFR5M2LDQTANH8Y0BD6EB7949B57857CC2DDB8BC704D952.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/8/HT/7IG4TLNFFR5M2LDQTANH8Y.uasset'
+[2026.10.04-19.10.26:971][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/1/KV/0I93HR7A6MMAZ175H318YE
+[2026.10.04-19.10.26:971][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/0I93HR7A6MMAZ175H318YEE255745F4BFCDBC1AC282EB645CD85F7.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/1/KV/0I93HR7A6MMAZ175H318YE.uasset'
+[2026.10.04-19.10.26:979][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/C/RI/MEX3IV6RCK1Z003YDJB318
+[2026.10.04-19.10.26:979][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/MEX3IV6RCK1Z003YDJB318139D54DD4ECF9998FC433F9759A424C8.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/C/RI/MEX3IV6RCK1Z003YDJB318.uasset'
+[2026.10.04-19.10.26:985][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/E/PD/SH4CAO4AWMDL2QWJ0KZOU9
+[2026.10.04-19.10.26:985][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/SH4CAO4AWMDL2QWJ0KZOU9615980D94BFE99C77968AE9D3245C9D7.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/E/PD/SH4CAO4AWMDL2QWJ0KZOU9.uasset'
+[2026.10.04-19.10.26:994][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/0/OD/JHJ37IV3B1CC8OHP7FNTAZ
+[2026.10.04-19.10.26:994][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/JHJ37IV3B1CC8OHP7FNTAZ840CD1A3468FC039F495BAB70DCD6B41.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/0/OD/JHJ37IV3B1CC8OHP7FNTAZ.uasset'
+[2026.10.04-19.10.27:004][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/8/7G/ZLLFP1EWLJWIB7Z3XWSLHH
+[2026.10.04-19.10.27:004][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/ZLLFP1EWLJWIB7Z3XWSLHHA653C81A4C2BB6C4C970868BBFCCD144.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/8/7G/ZLLFP1EWLJWIB7Z3XWSLHH.uasset'
+[2026.10.04-19.10.27:014][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/7/5N/IXS3QYXGZFFUK7X5G0AYF0
+[2026.10.04-19.10.27:015][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/IXS3QYXGZFFUK7X5G0AYF002C6FF5C44C1920C8E1EADAD705DAE39.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/7/5N/IXS3QYXGZFFUK7X5G0AYF0.uasset'
+[2026.10.04-19.10.27:063][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/7/LQ/9DWYJNPV3M5UUM920ZE7XS
+[2026.10.04-19.10.27:063][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/9DWYJNPV3M5UUM920ZE7XS49B32FE544BE72BEC3B5689DCFA6D9A6.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/7/LQ/9DWYJNPV3M5UUM920ZE7XS.uasset'
+[2026.10.04-19.10.27:102][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/4/BP/DXHFHZX4Z0EHMIUL3SPSP9
+[2026.10.04-19.10.27:102][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/DXHFHZX4Z0EHMIUL3SPSP9166A04B742823739D6B8B19B226CFBC5.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/4/BP/DXHFHZX4Z0EHMIUL3SPSP9.uasset'
+[2026.10.04-19.10.27:146][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/4/NN/EKHCJLD01M9G7Z3Y5I20B2
+[2026.10.04-19.10.27:147][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/EKHCJLD01M9G7Z3Y5I20B21A691BD040383A8964E85C90FA8C1BD5.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/4/NN/EKHCJLD01M9G7Z3Y5I20B2.uasset'
+[2026.10.04-19.10.27:193][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/7/6D/OC03DY73ODIFBJTG9VLIJM
+[2026.10.04-19.10.27:193][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/OC03DY73ODIFBJTG9VLIJME145D2E0439CE8B1E17858B0AC1D2946.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/7/6D/OC03DY73ODIFBJTG9VLIJM.uasset'
+[2026.10.04-19.10.27:233][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/3/D0/4XMHMNE6IN7HZB18SFSXU1
+[2026.10.04-19.10.27:233][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/4XMHMNE6IN7HZB18SFSXU19A9FA8424DEF5C2A61CE658B1D668D65.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/3/D0/4XMHMNE6IN7HZB18SFSXU1.uasset'
+[2026.10.04-19.10.27:277][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/2/N5/VAGYOJGUENSJ1QLWS4BOPE
+[2026.10.04-19.10.27:277][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/VAGYOJGUENSJ1QLWS4BOPE5DC38DDB4B57D67E7C8951A66153738F.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/2/N5/VAGYOJGUENSJ1QLWS4BOPE.uasset'
+[2026.10.04-19.10.27:318][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/B/AR/Q5K6T6EHABTON4LP606SK5
+[2026.10.04-19.10.27:318][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/Q5K6T6EHABTON4LP606SK5C44BD1664ABE833B7C6AD8890CA5CB9E.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/B/AR/Q5K6T6EHABTON4LP606SK5.uasset'
+[2026.10.04-19.10.27:364][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/9/IV/3TOWDE3I5QD8VCF70IUWAV
+[2026.10.04-19.10.27:364][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/3TOWDE3I5QD8VCF70IUWAV62C67F4E4A37C6633FA905BA4481D34F.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/9/IV/3TOWDE3I5QD8VCF70IUWAV.uasset'
+[2026.10.04-19.10.27:412][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/4/P5/1FW4C4RMRX5I9P5EY8NPES
+[2026.10.04-19.10.27:412][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/1FW4C4RMRX5I9P5EY8NPESC86AE06A4F40A013E5CE8A9039A3BB3B.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/4/P5/1FW4C4RMRX5I9P5EY8NPES.uasset'
+[2026.10.04-19.10.27:460][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/B/GA/RV96TL19FWT0B3VG5UYO1C
+[2026.10.04-19.10.27:460][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/RV96TL19FWT0B3VG5UYO1C64FC80B54A9F9BE23DD7DEAE981F029C.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/B/GA/RV96TL19FWT0B3VG5UYO1C.uasset'
+[2026.10.04-19.10.27:502][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/3/CH/KJHMEM2VYAJTWYAFQPESI5
+[2026.10.04-19.10.27:502][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/KJHMEM2VYAJTWYAFQPESI5ADDB917443E022DF61447FAA7B7F35AF.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/3/CH/KJHMEM2VYAJTWYAFQPESI5.uasset'
+[2026.10.04-19.10.27:549][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/5/LU/FESCZ2FJIHCP64BZWXPR02
+[2026.10.04-19.10.27:549][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/FESCZ2FJIHCP64BZWXPR022B624A614EB988D8841CAFA7005B7FD7.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/5/LU/FESCZ2FJIHCP64BZWXPR02.uasset'
+[2026.10.04-19.10.27:599][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/5/FQ/R2QU87UY8EILD42724L6IX
+[2026.10.04-19.10.27:599][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/R2QU87UY8EILD42724L6IX7A3919244D4024E0C8D929837669D4A1.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/5/FQ/R2QU87UY8EILD42724L6IX.uasset'
+[2026.10.04-19.10.27:645][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/3/ZT/0EQYMTYR3X3A7SOXER3JSP
+[2026.10.04-19.10.27:645][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/0EQYMTYR3X3A7SOXER3JSP6CBC11454FA28936EED0339C25EEF08C.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/3/ZT/0EQYMTYR3X3A7SOXER3JSP.uasset'
+[2026.10.04-19.10.27:690][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/5/ZO/I16KNY99LMJ8DJAKXGBACL
+[2026.10.04-19.10.27:691][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/I16KNY99LMJ8DJAKXGBACL6DB9FE1A4A8DAF6B8F7809B2594487AC.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/5/ZO/I16KNY99LMJ8DJAKXGBACL.uasset'
+[2026.10.04-19.10.27:736][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/3/KK/SCCXF8CA7A1Z98AIA411DY
+[2026.10.04-19.10.27:736][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/SCCXF8CA7A1Z98AIA411DY69556AB942BA5F9898C299941DA80450.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/3/KK/SCCXF8CA7A1Z98AIA411DY.uasset'
+[2026.10.04-19.10.27:782][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/1/6S/CB7TC21ZOMWX7JQPC5HNVG
+[2026.10.04-19.10.27:784][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/CB7TC21ZOMWX7JQPC5HNVGBEADB3854D92F5DBA5B7EF83FA60F447.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/1/6S/CB7TC21ZOMWX7JQPC5HNVG.uasset'
+[2026.10.04-19.10.27:829][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/E/3P/JNZ2KISWP8CAXEW3QYH9CL
+[2026.10.04-19.10.27:829][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/JNZ2KISWP8CAXEW3QYH9CL29601CC143829BC4681C32A7EEECC90C.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/E/3P/JNZ2KISWP8CAXEW3QYH9CL.uasset'
+[2026.10.04-19.10.27:873][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/E/4Y/PTPU6JQ45DAG078Y6ECRTE
+[2026.10.04-19.10.27:873][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/PTPU6JQ45DAG078Y6ECRTE7F5E2B244908E7EC9E1DF8A30605348A.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/E/4Y/PTPU6JQ45DAG078Y6ECRTE.uasset'
+[2026.10.04-19.10.27:916][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/A/7N/XBOJ5N2CAXYVVFSIO6EW65
+[2026.10.04-19.10.27:916][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/XBOJ5N2CAXYVVFSIO6EW6534D498694294F87C9F3E81889DC077FF.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/A/7N/XBOJ5N2CAXYVVFSIO6EW65.uasset'
+[2026.10.04-19.10.27:964][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/B/X2/8NC63M6HFK7NSRSH3RELX0
+[2026.10.04-19.10.27:964][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/8NC63M6HFK7NSRSH3RELX0078DC7504707AD6453F9319C3D12A513.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/B/X2/8NC63M6HFK7NSRSH3RELX0.uasset'
+[2026.10.04-19.10.28:007][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/2/HU/067CNWCYZCZDYJQ3GN82FU
+[2026.10.04-19.10.28:007][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/067CNWCYZCZDYJQ3GN82FUDC9F75E942B80D5439CA7CAE70C62DAD.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/2/HU/067CNWCYZCZDYJQ3GN82FU.uasset'
+[2026.10.04-19.10.28:049][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/4/C5/CO3437O8L0PU7TWHCIRTOG
+[2026.10.04-19.10.28:050][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/CO3437O8L0PU7TWHCIRTOG570AAE224C70FB5034514B9200FE72F1.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/4/C5/CO3437O8L0PU7TWHCIRTOG.uasset'
+[2026.10.04-19.10.28:093][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/6/J6/G8BVX7S8TT95QFHEPIGO9P
+[2026.10.04-19.10.28:093][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/G8BVX7S8TT95QFHEPIGO9PF67C85394314B6FAFBCA529205CF193E.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/6/J6/G8BVX7S8TT95QFHEPIGO9P.uasset'
+[2026.10.04-19.10.28:135][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/6/6W/VJ2I15QWY72BJPQKK71BN4
+[2026.10.04-19.10.28:135][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/VJ2I15QWY72BJPQKK71BN4B2DE303641E296BC16A2668714BBAA55.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/6/6W/VJ2I15QWY72BJPQKK71BN4.uasset'
+[2026.10.04-19.10.28:179][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/5/XR/Q3NIOPXOHZWWROQ9O6SNK7
+[2026.10.04-19.10.28:179][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/Q3NIOPXOHZWWROQ9O6SNK73FF2C9414FFF5023998964B30F335FBD.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/5/XR/Q3NIOPXOHZWWROQ9O6SNK7.uasset'
+[2026.10.04-19.10.28:223][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/3/YE/0QVWZOAVTSCDI91FZX4P0Y
+[2026.10.04-19.10.28:223][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/0QVWZOAVTSCDI91FZX4P0YC8EC4CFC4FF0EA86502993920F297230.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/3/YE/0QVWZOAVTSCDI91FZX4P0Y.uasset'
+[2026.10.04-19.10.28:265][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/4/KF/QI22BN05ZW6BKO3LJRLZ3N
+[2026.10.04-19.10.28:265][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/QI22BN05ZW6BKO3LJRLZ3N786A5D7547410F5F7A4B57A149E603F9.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/4/KF/QI22BN05ZW6BKO3LJRLZ3N.uasset'
+[2026.10.04-19.10.28:306][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/D/RI/QFWRP6U5LXOCHKOEFN36HS
+[2026.10.04-19.10.28:306][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/QFWRP6U5LXOCHKOEFN36HSDAA5BD3247EB199767342C9425F94431.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/D/RI/QFWRP6U5LXOCHKOEFN36HS.uasset'
+[2026.10.04-19.10.28:353][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/3/GU/J0VN5NF7VIYG1XGL6C27GJ
+[2026.10.04-19.10.28:353][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/J0VN5NF7VIYG1XGL6C27GJA84B2854442E66A26E0A819226F16839.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/3/GU/J0VN5NF7VIYG1XGL6C27GJ.uasset'
+[2026.10.04-19.10.28:403][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/3/B1/66MXI49JKDJ38BVMNLBM3E
+[2026.10.04-19.10.28:403][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/66MXI49JKDJ38BVMNLBM3E4CA159284CB5868B654E698DCBB9A573.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/3/B1/66MXI49JKDJ38BVMNLBM3E.uasset'
+[2026.10.04-19.10.28:447][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/E/AK/XMMQPBCHNE7PR753U3UF23
+[2026.10.04-19.10.28:447][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/XMMQPBCHNE7PR753U3UF23E09A16664142A15A4A1D088DCFDEA442.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/E/AK/XMMQPBCHNE7PR753U3UF23.uasset'
+[2026.10.04-19.10.28:490][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/9/H4/4IRZ6UUYU2FII2QY0TAZWK
+[2026.10.04-19.10.28:490][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/4IRZ6UUYU2FII2QY0TAZWK7EC189D34C1C8774319106BA131CC717.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/9/H4/4IRZ6UUYU2FII2QY0TAZWK.uasset'
+[2026.10.04-19.10.28:533][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/3/LL/3E1V2PRO2WYU9JGRDJ0F1B
+[2026.10.04-19.10.28:534][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/3E1V2PRO2WYU9JGRDJ0F1BF71B0C2E4CDBB8064A97F393589708B6.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/3/LL/3E1V2PRO2WYU9JGRDJ0F1B.uasset'
+[2026.10.04-19.10.28:581][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/0/73/2WDKPX159YIJN0UA6TLRSD
+[2026.10.04-19.10.28:581][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/2WDKPX159YIJN0UA6TLRSD01C4D25C407E99F00E6094899FB8A624.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/0/73/2WDKPX159YIJN0UA6TLRSD.uasset'
+[2026.10.04-19.10.28:625][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/D/UP/YTY2D91YSKZE3CRJGBW2XJ
+[2026.10.04-19.10.28:626][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/YTY2D91YSKZE3CRJGBW2XJ0D4C44D5476DD40A09EA5BA5C4A5BC77.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/D/UP/YTY2D91YSKZE3CRJGBW2XJ.uasset'
+[2026.10.04-19.10.28:673][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/2/G5/KYM50EX97ZO7E50DSRLH7Z
+[2026.10.04-19.10.28:673][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/KYM50EX97ZO7E50DSRLH7Z396728594CF178E5C09BB289F158897E.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/2/G5/KYM50EX97ZO7E50DSRLH7Z.uasset'
+[2026.10.04-19.10.28:717][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/1/12/3G5WMCBV9PYZTFQTVESL54
+[2026.10.04-19.10.28:718][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/3G5WMCBV9PYZTFQTVESL5496C33A974AF1EF129E922E937E00B348.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/1/12/3G5WMCBV9PYZTFQTVESL54.uasset'
+[2026.10.04-19.10.28:764][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/3/CI/3KCURI93G9Z6HO67T2ZKH9
+[2026.10.04-19.10.28:764][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/3KCURI93G9Z6HO67T2ZKH9428DB10146360B66E74A55805A892988.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/3/CI/3KCURI93G9Z6HO67T2ZKH9.uasset'
+[2026.10.04-19.10.28:817][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/8/UW/AF7POQPT4PDEBE4RRWWH01
+[2026.10.04-19.10.28:817][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/AF7POQPT4PDEBE4RRWWH010886A16443AF6F1F871D2A972575B88F.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/8/UW/AF7POQPT4PDEBE4RRWWH01.uasset'
+[2026.10.04-19.10.28:862][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/7/NY/RZOCMH5U6KDKS2VT6EM0IS
+[2026.10.04-19.10.28:862][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/RZOCMH5U6KDKS2VT6EM0IS67E9C2B64CF2984AAB43E7A5076DF3F0.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/7/NY/RZOCMH5U6KDKS2VT6EM0IS.uasset'
+[2026.10.04-19.10.28:906][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/4/KC/OSDHBBRUQ1BYMN17P9NXNF
+[2026.10.04-19.10.28:907][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/OSDHBBRUQ1BYMN17P9NXNFEEF8FBD746DE1640F64156819191479E.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/4/KC/OSDHBBRUQ1BYMN17P9NXNF.uasset'
+[2026.10.04-19.10.28:951][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/9/CF/QA46PT05T2NVGVNXAQTDOQ
+[2026.10.04-19.10.28:951][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/QA46PT05T2NVGVNXAQTDOQ9E8579FA4F4E126DAD820789085DAC9D.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/9/CF/QA46PT05T2NVGVNXAQTDOQ.uasset'
+[2026.10.04-19.10.28:999][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/3/5A/JZ53988NNO748J428SKWAA
+[2026.10.04-19.10.28:999][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/JZ53988NNO748J428SKWAADBD3CAE84341C42133BA878C7F09213A.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/3/5A/JZ53988NNO748J428SKWAA.uasset'
+[2026.10.04-19.10.29:041][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/2/SN/D928TGUQL6TSVGADOW9G7G
+[2026.10.04-19.10.29:042][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/D928TGUQL6TSVGADOW9G7GB042AAB04F9AFCDDD0E856AC1BB95FE3.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/2/SN/D928TGUQL6TSVGADOW9G7G.uasset'
+[2026.10.04-19.10.29:085][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/A/W4/FRB3KSE67XSKDDD008V7IS
+[2026.10.04-19.10.29:085][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/FRB3KSE67XSKDDD008V7ISCC02F71D4D96A457544C7C878EB5F8A4.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/A/W4/FRB3KSE67XSKDDD008V7IS.uasset'
+[2026.10.04-19.10.29:132][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/D/48/URFWYUM2NL2C0N0X6H0VET
+[2026.10.04-19.10.29:132][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/URFWYUM2NL2C0N0X6H0VET18A1D7D342BC6E2B62289A94F13287D4.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/D/48/URFWYUM2NL2C0N0X6H0VET.uasset'
+[2026.10.04-19.10.29:178][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/6/0Z/QALP0KGSKTDCHYOWBH00TC
+[2026.10.04-19.10.29:178][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/QALP0KGSKTDCHYOWBH00TC8AD6F5F349B7DD6C894AB187D3ADD7E2.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/6/0Z/QALP0KGSKTDCHYOWBH00TC.uasset'
+[2026.10.04-19.10.29:222][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/D/KB/17CQYA7LACNCQ4IK523S4U
+[2026.10.04-19.10.29:222][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/17CQYA7LACNCQ4IK523S4U3EF70D7848D585DF825A05A6D8EE8E02.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/D/KB/17CQYA7LACNCQ4IK523S4U.uasset'
+[2026.10.04-19.10.29:263][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/8/Z2/LQI3UWNTUWXS4YTW8R2ZOL
+[2026.10.04-19.10.29:263][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/LQI3UWNTUWXS4YTW8R2ZOLBC2B52A34D9E298481447F84DCF38652.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/8/Z2/LQI3UWNTUWXS4YTW8R2ZOL.uasset'
+[2026.10.04-19.10.29:311][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/E/6A/ENL0OWY2HRYV052HVCPAB9
+[2026.10.04-19.10.29:311][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/ENL0OWY2HRYV052HVCPAB91F35A68E46A5561BC8580181FC95F29C.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/E/6A/ENL0OWY2HRYV052HVCPAB9.uasset'
+[2026.10.04-19.10.29:352][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/5/ZF/B1UH0J19Y2VUK90EVX9223
+[2026.10.04-19.10.29:352][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/B1UH0J19Y2VUK90EVX9223FB9D157A492B850FA9AED9AEC3CFB59B.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/5/ZF/B1UH0J19Y2VUK90EVX9223.uasset'
+[2026.10.04-19.10.29:396][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/8/I4/FM7K3KA4V81EAVXB86NF00
+[2026.10.04-19.10.29:396][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/FM7K3KA4V81EAVXB86NF00C3B533D7483732998D13579CDB297313.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/8/I4/FM7K3KA4V81EAVXB86NF00.uasset'
+[2026.10.04-19.10.29:443][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/D/L8/RHHCCGI7679GMYDIZYHQQS
+[2026.10.04-19.10.29:443][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/RHHCCGI7679GMYDIZYHQQSFE5E9ADA48A3158E7085E6AB97A3D53D.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/D/L8/RHHCCGI7679GMYDIZYHQQS.uasset'
+[2026.10.04-19.10.29:490][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/9/X8/EXRC9AS385205TK6LM84GJ
+[2026.10.04-19.10.29:490][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/EXRC9AS385205TK6LM84GJ45C4921648282BDC13CADC9FD0F542F0.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/9/X8/EXRC9AS385205TK6LM84GJ.uasset'
+[2026.10.04-19.10.29:535][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/1/3Q/EAG4BS2DPHIK2XK2NND0XW
+[2026.10.04-19.10.29:536][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/EAG4BS2DPHIK2XK2NND0XWA3771B2347602D8CC40894847A2A7578.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/1/3Q/EAG4BS2DPHIK2XK2NND0XW.uasset'
+[2026.10.04-19.10.29:588][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/3/EC/0V2G0J8DX3DNGTSVL53KTE
+[2026.10.04-19.10.29:588][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/0V2G0J8DX3DNGTSVL53KTE293F1AEE4C08DD7EBA1E05B0055DAD5A.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/3/EC/0V2G0J8DX3DNGTSVL53KTE.uasset'
+[2026.10.04-19.10.29:632][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/5/GY/O1UEJHY8P8XD96235LC4PP
+[2026.10.04-19.10.29:632][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/O1UEJHY8P8XD96235LC4PP3EB562D44C3B52DDE11829BFE0DBAB84.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/5/GY/O1UEJHY8P8XD96235LC4PP.uasset'
+[2026.10.04-19.10.29:677][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/0/MZ/5PNEY3SF69UX7T47UZ0L9Y
+[2026.10.04-19.10.29:677][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/5PNEY3SF69UX7T47UZ0L9Y083D7DE44C459BAA068735804E730665.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/0/MZ/5PNEY3SF69UX7T47UZ0L9Y.uasset'
+[2026.10.04-19.10.29:726][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/2/V3/DCW0QKDUNXNFY4SC2NQ1ID
+[2026.10.04-19.10.29:727][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/DCW0QKDUNXNFY4SC2NQ1ID78BDB7604F353430649B68AC6946501E.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/2/V3/DCW0QKDUNXNFY4SC2NQ1ID.uasset'
+[2026.10.04-19.10.29:771][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/D/5Z/AEPGC9ISM3EWFKTPEKIXEC
+[2026.10.04-19.10.29:771][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/AEPGC9ISM3EWFKTPEKIXECE2AABF794BC08A4C89A836ADC38AD6B0.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/D/5Z/AEPGC9ISM3EWFKTPEKIXEC.uasset'
+[2026.10.04-19.10.29:817][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/A/JQ/JKQR4DLLNM14GIYDEONLMN
+[2026.10.04-19.10.29:817][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/JKQR4DLLNM14GIYDEONLMN61A68E8D4349D3D2B58A0A8AE70514FD.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/A/JQ/JKQR4DLLNM14GIYDEONLMN.uasset'
+[2026.10.04-19.10.29:861][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/9/NO/AYYH53BAPU6S2DXDX3VW0J
+[2026.10.04-19.10.29:861][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/AYYH53BAPU6S2DXDX3VW0JDDEAA5C342C9D7D7B14937A711F3F0C9.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/9/NO/AYYH53BAPU6S2DXDX3VW0J.uasset'
+[2026.10.04-19.10.29:907][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/1/QM/E0DKBL2TY5TRDBG0P2PN7H
+[2026.10.04-19.10.29:907][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/E0DKBL2TY5TRDBG0P2PN7H81B46D884DFE96143196CBB3E98F3CAD.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/1/QM/E0DKBL2TY5TRDBG0P2PN7H.uasset'
+[2026.10.04-19.10.29:934][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/7/63/LM023UU1VHRJSPAJ1TQPML
+[2026.10.04-19.10.29:934][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/LM023UU1VHRJSPAJ1TQPML2378E5CD4B2935B8545A2A8E839215EE.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/7/63/LM023UU1VHRJSPAJ1TQPML.uasset'
+[2026.10.04-19.10.29:950][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/D/HH/OY29LNIR2LNYQ17X76J5S5
+[2026.10.04-19.10.29:950][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/OY29LNIR2LNYQ17X76J5S50B47EB0A40621386829BC99695042724.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/D/HH/OY29LNIR2LNYQ17X76J5S5.uasset'
+[2026.10.04-19.10.29:969][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/4/C1/XLN1OLNDB694QWB7U4ZLMN
+[2026.10.04-19.10.29:969][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/XLN1OLNDB694QWB7U4ZLMNAAC82B6B43D162641DA9BEA7BB8E1893.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/4/C1/XLN1OLNDB694QWB7U4ZLMN.uasset'
+[2026.10.04-19.10.29:987][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/2/UF/HQ3LWFTD9PLO9A0SJYKW1R
+[2026.10.04-19.10.29:987][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/HQ3LWFTD9PLO9A0SJYKW1R90A8D62B44F18BDE29978EAD9530469C.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/2/UF/HQ3LWFTD9PLO9A0SJYKW1R.uasset'
+[2026.10.04-19.10.30:007][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/C/5I/OWZ14ULEZAEJFA07EXB7XJ
+[2026.10.04-19.10.30:007][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/OWZ14ULEZAEJFA07EXB7XJFB4410C04064E37C6BD6FE8A5A2D8772.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/C/5I/OWZ14ULEZAEJFA07EXB7XJ.uasset'
+[2026.10.04-19.10.30:025][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/E/AN/2GTWNGC0DZNSNMBA2XYX0W
+[2026.10.04-19.10.30:025][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/2GTWNGC0DZNSNMBA2XYX0W0421C6EC4BC5CF4E6EDE2DB80863E385.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/E/AN/2GTWNGC0DZNSNMBA2XYX0W.uasset'
+[2026.10.04-19.10.30:042][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/4/0B/4G2S0SB0OQ7NT9TIJRG1IX
+[2026.10.04-19.10.30:042][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/4G2S0SB0OQ7NT9TIJRG1IXBE0CF4C942B323AF996CE8B5C1D1D2AF.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/4/0B/4G2S0SB0OQ7NT9TIJRG1IX.uasset'
+[2026.10.04-19.10.30:059][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/D/6I/H838KO1AS7MZQY9YW0R85Z
+[2026.10.04-19.10.30:059][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/H838KO1AS7MZQY9YW0R85ZBDD18E114F9B6C489827B7912F0C26DD.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/D/6I/H838KO1AS7MZQY9YW0R85Z.uasset'
+[2026.10.04-19.10.30:077][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/8/UK/Y4AICDJPBP6BUSC1K3CCWC
+[2026.10.04-19.10.30:077][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/Y4AICDJPBP6BUSC1K3CCWC1A73E67246A6ABB166FBCA986EABC62C.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/8/UK/Y4AICDJPBP6BUSC1K3CCWC.uasset'
+[2026.10.04-19.10.30:093][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/0/2R/9TP27SKQ5TPPPJXI93JHHB
+[2026.10.04-19.10.30:093][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/9TP27SKQ5TPPPJXI93JHHB996EDF6A47FC09DEF64939BD1A899394.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/0/2R/9TP27SKQ5TPPPJXI93JHHB.uasset'
+[2026.10.04-19.10.30:111][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/6/2U/2B7L89GVL1VQTEGG85JXL7
+[2026.10.04-19.10.30:111][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/2B7L89GVL1VQTEGG85JXL7658558154C5808FF044E86AD005C46A3.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/6/2U/2B7L89GVL1VQTEGG85JXL7.uasset'
+[2026.10.04-19.10.30:128][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/4/EH/5T3XYY52DWRM2BF04MGLUB
+[2026.10.04-19.10.30:128][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/5T3XYY52DWRM2BF04MGLUB78C3F2DE4B9D9DBEDCDB23BB3B60729E.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/4/EH/5T3XYY52DWRM2BF04MGLUB.uasset'
+[2026.10.04-19.10.30:144][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/5/RE/7CHG16SPORDJ54HG2WI5VU
+[2026.10.04-19.10.30:144][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/7CHG16SPORDJ54HG2WI5VU98D80CEE430EBF882790488B03636DC4.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/5/RE/7CHG16SPORDJ54HG2WI5VU.uasset'
+[2026.10.04-19.10.30:161][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/2/7N/YTPXHNC1UVUBQVC4JJMP94
+[2026.10.04-19.10.30:162][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/YTPXHNC1UVUBQVC4JJMP9467CF0FC040300156282CBEB7DA02EF65.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/2/7N/YTPXHNC1UVUBQVC4JJMP94.uasset'
+[2026.10.04-19.10.30:181][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/6/IM/2O6HZT4ODMQZMVDIEHPXGC
+[2026.10.04-19.10.30:181][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/2O6HZT4ODMQZMVDIEHPXGC5CF3FCE442CB3DBD532E89B870A92C65.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/6/IM/2O6HZT4ODMQZMVDIEHPXGC.uasset'
+[2026.10.04-19.10.30:201][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/5/MS/DNAAJ5ZCP6S7QQPYDIW90N
+[2026.10.04-19.10.30:201][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/DNAAJ5ZCP6S7QQPYDIW90N474E05CF497C8E756D939C983593FD9E.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/5/MS/DNAAJ5ZCP6S7QQPYDIW90N.uasset'
+[2026.10.04-19.10.30:217][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/D/N0/262Z07NP1VWWNXK1JDXBOB
+[2026.10.04-19.10.30:217][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/262Z07NP1VWWNXK1JDXBOB83A65D6247C5B6045418BA94464411AB.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/D/N0/262Z07NP1VWWNXK1JDXBOB.uasset'
+[2026.10.04-19.10.30:234][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/A/NW/URJ073QXF09ZWNP3P7H96C
+[2026.10.04-19.10.30:234][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/URJ073QXF09ZWNP3P7H96C728E2AA74C27D85EFAFF8A91189D47DB.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/A/NW/URJ073QXF09ZWNP3P7H96C.uasset'
+[2026.10.04-19.10.30:254][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/B/RC/XQN56CBLXFUZ7FG0YQU0EF
+[2026.10.04-19.10.30:254][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/XQN56CBLXFUZ7FG0YQU0EFEBCFAAB347EDA915561B03924B24A889.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/B/RC/XQN56CBLXFUZ7FG0YQU0EF.uasset'
+[2026.10.04-19.10.30:271][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/5/A8/T1A1A5J4CE1TWAKSN96818
+[2026.10.04-19.10.30:271][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/T1A1A5J4CE1TWAKSN96818B334E0B34DC7CE8E1D9D598B00886999.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/5/A8/T1A1A5J4CE1TWAKSN96818.uasset'
+[2026.10.04-19.10.30:287][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/2/2S/3YFF7QNMFUSZXMV6CUBOI7
+[2026.10.04-19.10.30:287][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/3YFF7QNMFUSZXMV6CUBOI71CEEA9C941729CF4E0DA5782638B5E2C.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/2/2S/3YFF7QNMFUSZXMV6CUBOI7.uasset'
+[2026.10.04-19.10.30:303][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/7/C7/WC6IO6SLKQC4TU9CUJOB5S
+[2026.10.04-19.10.30:304][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/WC6IO6SLKQC4TU9CUJOB5S15B11BB04DF8FC76E6094EBD4FB1141C.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/7/C7/WC6IO6SLKQC4TU9CUJOB5S.uasset'
+[2026.10.04-19.10.30:319][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/E/0S/NO0MMNYTKGHCL5X32QIEX2
+[2026.10.04-19.10.30:319][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/NO0MMNYTKGHCL5X32QIEX205DD9EEE4AAFA8C0BC6617B7D37243B6.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/E/0S/NO0MMNYTKGHCL5X32QIEX2.uasset'
+[2026.10.04-19.10.30:336][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/C/3P/1BKEWMV4Q2F0EF0JQ094D6
+[2026.10.04-19.10.30:336][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/1BKEWMV4Q2F0EF0JQ094D69DCAC31748008220EC242E875A74E238.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/C/3P/1BKEWMV4Q2F0EF0JQ094D6.uasset'
+[2026.10.04-19.10.30:350][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/9/SP/XJDCB60MT9HBRCL0ME0RNE
+[2026.10.04-19.10.30:350][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/XJDCB60MT9HBRCL0ME0RNE66BDBF694709552F18B4788E697E53EB.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/9/SP/XJDCB60MT9HBRCL0ME0RNE.uasset'
+[2026.10.04-19.10.30:366][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/C/KA/BXBB72EQG2A0O6YE72ODL6
+[2026.10.04-19.10.30:366][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/BXBB72EQG2A0O6YE72ODL62712E84941315D5EC97823A8FA16BBF3.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/C/KA/BXBB72EQG2A0O6YE72ODL6.uasset'
+[2026.10.04-19.10.30:382][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/B/KE/IPVIY7ZKYXACGX3MUZ5ZH8
+[2026.10.04-19.10.30:382][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/IPVIY7ZKYXACGX3MUZ5ZH87E1A50D64A0F1B8679C0A9A2B87E9CC7.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/B/KE/IPVIY7ZKYXACGX3MUZ5ZH8.uasset'
+[2026.10.04-19.10.30:399][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/2/J4/QRW6CM8V6OYJRYTD4JH73K
+[2026.10.04-19.10.30:399][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/QRW6CM8V6OYJRYTD4JH73KDEC9A79340AD72B677CBEE8B22548B28.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/2/J4/QRW6CM8V6OYJRYTD4JH73K.uasset'
+[2026.10.04-19.10.30:415][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/D/S5/UG8VLD9ZFVCRGO2C3JX8NL
+[2026.10.04-19.10.30:416][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/UG8VLD9ZFVCRGO2C3JX8NL0B4280A444E03B477F6A8E9F8DD6B8A5.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/D/S5/UG8VLD9ZFVCRGO2C3JX8NL.uasset'
+[2026.10.04-19.10.30:431][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/D/XP/PYCGSSSJ5UQM4551IQC9PG
+[2026.10.04-19.10.30:431][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/PYCGSSSJ5UQM4551IQC9PGE11EC4E343069D693D1A149231EC2484.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/D/XP/PYCGSSSJ5UQM4551IQC9PG.uasset'
+[2026.10.04-19.10.30:448][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/6/5Y/2MCKTA59DPVTGS9PZ8JU4S
+[2026.10.04-19.10.30:448][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/2MCKTA59DPVTGS9PZ8JU4S6BF5ACE7443A69FDFDEFF4936C0EC0E6.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/6/5Y/2MCKTA59DPVTGS9PZ8JU4S.uasset'
+[2026.10.04-19.10.30:464][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/B/WW/T0M22JAZQJV0QZ4KJPZ3G8
+[2026.10.04-19.10.30:464][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/T0M22JAZQJV0QZ4KJPZ3G84F542D504577B0E1F66374B09520F106.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/B/WW/T0M22JAZQJV0QZ4KJPZ3G8.uasset'
+[2026.10.04-19.10.30:480][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/E/O2/YMO8LYCAT7AUMQFD4A6HIL
+[2026.10.04-19.10.30:480][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/YMO8LYCAT7AUMQFD4A6HILEEA4079D465B9C361672AAA05F55E9A6.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/E/O2/YMO8LYCAT7AUMQFD4A6HIL.uasset'
+[2026.10.04-19.10.30:497][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/A/84/QDGR9VW1DDE29MN4J44SVK
+[2026.10.04-19.10.30:497][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/QDGR9VW1DDE29MN4J44SVKACA2996A443C6F9568EA84B71744B25E.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/A/84/QDGR9VW1DDE29MN4J44SVK.uasset'
+[2026.10.04-19.10.30:513][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/2/9V/EIQDHGIU7PJHRF6HWITYNN
+[2026.10.04-19.10.30:513][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/EIQDHGIU7PJHRF6HWITYNN226B00774DA940E011F9BA89F997999B.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/2/9V/EIQDHGIU7PJHRF6HWITYNN.uasset'
+[2026.10.04-19.10.30:528][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/E/0N/LNNIBO2VLWYYMZW4JP5P4L
+[2026.10.04-19.10.30:528][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/LNNIBO2VLWYYMZW4JP5P4LDE0658D5406B0886052905BF088793DE.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/E/0N/LNNIBO2VLWYYMZW4JP5P4L.uasset'
+[2026.10.04-19.10.30:544][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/B/1Q/YO0U3NEV0DHXXPR38YC03V
+[2026.10.04-19.10.30:545][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/YO0U3NEV0DHXXPR38YC03VA5E18CA343A5BB6F9417B8AEAEF3759A.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/B/1Q/YO0U3NEV0DHXXPR38YC03V.uasset'
+[2026.10.04-19.10.30:560][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/B/DD/Q90F75NIOJ379NV4QGY8WG
+[2026.10.04-19.10.30:560][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/Q90F75NIOJ379NV4QGY8WG6CB03C294D6BC910ADD26C83EF052BC7.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/B/DD/Q90F75NIOJ379NV4QGY8WG.uasset'
+[2026.10.04-19.10.30:578][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/E/HG/6WDHAIYG6JCTRFE2TMH3IG
+[2026.10.04-19.10.30:578][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/6WDHAIYG6JCTRFE2TMH3IG074951B740A02DA7DDBB3E803FA8BC36.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/E/HG/6WDHAIYG6JCTRFE2TMH3IG.uasset'
+[2026.10.04-19.10.30:594][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/C/4U/P61AY8IETKHVHTU3GFTHB7
+[2026.10.04-19.10.30:594][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/P61AY8IETKHVHTU3GFTHB719A3A1B54A48FE11B2EBEE9AFB34E951.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/C/4U/P61AY8IETKHVHTU3GFTHB7.uasset'
+[2026.10.04-19.10.30:613][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/2/3P/ZD5146YQY1T7GHELHZ9YLM
+[2026.10.04-19.10.30:613][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/ZD5146YQY1T7GHELHZ9YLMA093205C410C046F7CE56982E6B8ECD5.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/2/3P/ZD5146YQY1T7GHELHZ9YLM.uasset'
+[2026.10.04-19.10.30:629][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/8/BT/M7VGY1PIEESU0GHLJSXRFI
+[2026.10.04-19.10.30:629][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/M7VGY1PIEESU0GHLJSXRFIEE2C0340478B5EC7A6446C93AE821D4D.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/8/BT/M7VGY1PIEESU0GHLJSXRFI.uasset'
+[2026.10.04-19.10.30:645][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/D/HA/HC1QHD9N8673M6T0CELO5B
+[2026.10.04-19.10.30:645][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/HC1QHD9N8673M6T0CELO5BD18EAC8245AC7C0367876692FCF52F3F.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/D/HA/HC1QHD9N8673M6T0CELO5B.uasset'
+[2026.10.04-19.10.30:664][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/5/4Y/U384NG3GTKZUVJEPAJ3JPG
+[2026.10.04-19.10.30:664][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/U384NG3GTKZUVJEPAJ3JPG1BA0DE8142AE84CB1A19809738E9D8CD.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/5/4Y/U384NG3GTKZUVJEPAJ3JPG.uasset'
+[2026.10.04-19.10.30:683][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/4/DL/2L33W7HZ3T5PINI6G6UO91
+[2026.10.04-19.10.30:683][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/2L33W7HZ3T5PINI6G6UO911A261D0F4FB027EC4992668B0C6A8CBD.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/4/DL/2L33W7HZ3T5PINI6G6UO91.uasset'
+[2026.10.04-19.10.30:699][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/B/3I/6FIVS8TJV71ZG10AKAXN6A
+[2026.10.04-19.10.30:699][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/6FIVS8TJV71ZG10AKAXN6A5566AEF64CC984AB3BEB2BA629D6BC9B.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/B/3I/6FIVS8TJV71ZG10AKAXN6A.uasset'
+[2026.10.04-19.10.30:714][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/9/HB/VSQ4W7OTRT1V335SWYY59C
+[2026.10.04-19.10.30:714][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/VSQ4W7OTRT1V335SWYY59CCD8E94D8481672F22C25528433521320.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/9/HB/VSQ4W7OTRT1V335SWYY59C.uasset'
+[2026.10.04-19.10.30:731][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/3/QB/170TMF20F2XIDRDD5OI891
+[2026.10.04-19.10.30:732][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/170TMF20F2XIDRDD5OI891C9D947924A1C5646BE3CEFBF14C3F041.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/3/QB/170TMF20F2XIDRDD5OI891.uasset'
+[2026.10.04-19.10.30:747][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/7/YJ/UPS1O4XI3U8JSKRNQFKX7J
+[2026.10.04-19.10.30:747][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/UPS1O4XI3U8JSKRNQFKX7J30FABA4F4C406AA61677F8B94B921C44.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/7/YJ/UPS1O4XI3U8JSKRNQFKX7J.uasset'
+[2026.10.04-19.10.30:764][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/D/IB/OF4DM4W6QGPZH2USUQJDWW
+[2026.10.04-19.10.30:764][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/OF4DM4W6QGPZH2USUQJDWWBDA4134D4ABEADE44532B9B3149F3B6F.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/D/IB/OF4DM4W6QGPZH2USUQJDWW.uasset'
+[2026.10.04-19.10.30:780][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/4/9V/66XX5FCTN6F0YALTI22NKS
+[2026.10.04-19.10.30:780][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/66XX5FCTN6F0YALTI22NKSD1E4C9804FA87D80F84BCB82491CCD5B.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/4/9V/66XX5FCTN6F0YALTI22NKS.uasset'
+[2026.10.04-19.10.30:797][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/6/PM/C15JNWB3RJA9ENCPHLJYKA
+[2026.10.04-19.10.30:797][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/C15JNWB3RJA9ENCPHLJYKA71F16F28465C7C450D61D4AE8ACF1BF3.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/6/PM/C15JNWB3RJA9ENCPHLJYKA.uasset'
+[2026.10.04-19.10.30:815][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/8/XA/BDI1DWAFBIP65GSIG03KLN
+[2026.10.04-19.10.30:816][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/BDI1DWAFBIP65GSIG03KLN7ED609584D3EA768DD52F7B3388AD450.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/8/XA/BDI1DWAFBIP65GSIG03KLN.uasset'
+[2026.10.04-19.10.30:832][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/9/25/KDJBK9GOBMGQUDASB5N13G
+[2026.10.04-19.10.30:832][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/KDJBK9GOBMGQUDASB5N13G51EB52B84C23B8C5BAC2F7916E6D6741.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/9/25/KDJBK9GOBMGQUDASB5N13G.uasset'
+[2026.10.04-19.10.30:849][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/8/YG/O8DA3WV4OO1IHO5EAMG9U7
+[2026.10.04-19.10.30:849][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/O8DA3WV4OO1IHO5EAMG9U7EF3287094D2F417A05804F92302E49A5.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/8/YG/O8DA3WV4OO1IHO5EAMG9U7.uasset'
+[2026.10.04-19.10.30:866][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/7/JI/ADC5YRL8F0WWKIUBDDO9N3
+[2026.10.04-19.10.30:866][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/ADC5YRL8F0WWKIUBDDO9N3CD30EF084214ADBC1E0D5B9A27F5E568.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/7/JI/ADC5YRL8F0WWKIUBDDO9N3.uasset'
+[2026.10.04-19.10.30:881][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/8/JD/RXJG2LF16FEWFV0UJIVW6O
+[2026.10.04-19.10.30:881][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/RXJG2LF16FEWFV0UJIVW6OAFE93328465192EE25D8119321851E5A.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/8/JD/RXJG2LF16FEWFV0UJIVW6O.uasset'
+[2026.10.04-19.10.30:898][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/3/0U/SCWG39O87GIBB1YYVXMVDQ
+[2026.10.04-19.10.30:898][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/SCWG39O87GIBB1YYVXMVDQDA703DE748905703C02C3D9F51191A7D.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/3/0U/SCWG39O87GIBB1YYVXMVDQ.uasset'
+[2026.10.04-19.10.30:913][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/0/UN/V8AWGJZYH8VDUIDPN8L9RR
+[2026.10.04-19.10.30:913][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/V8AWGJZYH8VDUIDPN8L9RRF7FB42C644C7040155304294EBA3ECEF.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/0/UN/V8AWGJZYH8VDUIDPN8L9RR.uasset'
+[2026.10.04-19.10.30:928][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/5/2X/JLLWJAJVF77LKA4OA1AN4A
+[2026.10.04-19.10.30:928][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/JLLWJAJVF77LKA4OA1AN4AE13F4CD744771B69227328AD2874463B.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/5/2X/JLLWJAJVF77LKA4OA1AN4A.uasset'
+[2026.10.04-19.10.30:945][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/5/XW/IKLIC6HEA6OMQTNAIOKW50
+[2026.10.04-19.10.30:945][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/IKLIC6HEA6OMQTNAIOKW505D26F6AD41F932A3734FF5BABC613A0F.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/5/XW/IKLIC6HEA6OMQTNAIOKW50.uasset'
+[2026.10.04-19.10.30:959][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/E/8M/V1TJHLLDUFGG7O1PTGHBWZ
+[2026.10.04-19.10.30:959][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/V1TJHLLDUFGG7O1PTGHBWZ16810C6F46A5B2C8C6B5728EFCADE91B.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/E/8M/V1TJHLLDUFGG7O1PTGHBWZ.uasset'
+[2026.10.04-19.10.30:976][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/A/4Z/Q99VM1TR0LZGR613BMRU8O
+[2026.10.04-19.10.30:977][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/Q99VM1TR0LZGR613BMRU8OD1AC3B154E8832214EE91CB199A1C2FC.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/A/4Z/Q99VM1TR0LZGR613BMRU8O.uasset'
+[2026.10.04-19.10.30:993][672]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/maps/testEnviornment/A/RU/ZVFA00FDIUZXEZQJYBNI61
+[2026.10.04-19.10.30:993][672]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/ZVFA00FDIUZXEZQJYBNI61189552064E031F6F217BE9B25F392A10.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/__ExternalActors__/maps/testEnviornment/A/RU/ZVFA00FDIUZXEZQJYBNI61.uasset'
+[2026.10.04-19.10.31:007][672]LogFileHelpers: InternalPromptForCheckoutAndSave took 4.50 sec
+[2026.10.04-19.10.31:034][672]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/maps/testEnviornment_HLOD0_Instancing
+/Game/__ExternalActors__/maps/testEnviornment/5/RV/WLLVHW2WKZQIMZBECP20UJ
+/Game/__ExternalObjects__/maps/testEnviornment/C/U2/TNWGKBCUWKV6K76N1SNHQV
+/Game/__ExternalObjects__/maps/testEnviornment/C/1K/WXVKJLZLASVBNWQPNIT6UP
+/Game/__ExternalObjects__/maps/testEnviornment/4/HU/PRZE6NT9ABH3WQARY3S6PX
+/Game/__ExternalObjects__/maps/testEnviornment/8/2N/KZWB46G2XS2YT7NQFIFIPA
+/Game/__ExternalObjects__/maps/testEnviornment/4/DK/9P6UR9TL3C4ECOPAH2VLFB
+/Game/__ExternalObjects__/maps/testEnviornment/2/BJ/H0FBQJVM8KHN9TMULT4FNX
+/Game/__ExternalActors__/maps/testEnviornment/5/57/518PEG5Z0AARBPR1YXCLRD
+/Game/__ExternalActors__/maps/testEnviornment/C/G9/E2X8HU8X4N8XIVH5RD15E0
+/Game/__ExternalActors__/maps/testEnviornment/8/HT/7IG4TLNFFR5M2LDQTANH8Y
+/Game/__ExternalActors__/maps/testEnviornment/1/KV/0I93HR7A6MMAZ175H318YE
+/Game/__ExternalActors__/maps/testEnviornment/C/RI/MEX3IV6RCK1Z003YDJB318
+/Game/__ExternalActors__/maps/testEnviornment/E/PD/SH4CAO4AWMDL2QWJ0KZOU9
+/Game/__ExternalActors__/maps/testEnviornment/0/OD/JHJ37IV3B1CC8OHP7FNTAZ
+/Game/__ExternalActors__/maps/testEnviornment/8/7G/ZLLFP1EWLJWIB7Z3XWSLHH
+/Game/__ExternalActors__/maps/testEnviornment/7/5N/IXS3QYXGZFFUK7X5G0AYF0
+/Game/__ExternalActors__/maps/testEnviornment/7/LQ/9DWYJNPV3M5UUM920ZE7XS
+/Game/__ExternalActors__/maps/testEnviornment/4/BP/DXHFHZX4Z0EHMIUL3SPSP9
+/Game/__ExternalActors__/maps/testEnviornment/4/NN/EKHCJLD01M9G7Z3Y5I20B2
+/Game/__ExternalActors__/maps/testEnviornment/7/6D/OC03DY73ODIFBJTG9VLIJM
+/Game/__ExternalActors__/maps/testEnviornment/3/D0/4XMHMNE6IN7HZB18SFSXU1
+/Game/__ExternalActors__/maps/testEnviornment/2/N5/VAGYOJGUENSJ1QLWS4BOPE
+/Game/__ExternalActors__/maps/testEnviornment/B/AR/Q5K6T6EHABTON4LP606SK5
+/Game/__ExternalActors__/maps/testEnviornment/9/IV/3TOWDE3I5QD8VCF70IUWAV
+/Game/__ExternalActors__/maps/testEnviornment/4/P5/1FW4C4RMRX5I9P5EY8NPES
+/Game/__ExternalActors__/maps/testEnviornment/B/GA/RV96TL19FWT0B3VG5UYO1C
+/Game/__ExternalActors__/maps/testEnviornment/3/CH/KJHMEM2VYAJTWYAFQPESI5
+/Game/__ExternalActors__/maps/testEnviornment/5/LU/FESCZ2FJIHCP64BZWXPR02
+/Game/__ExternalActors__/maps/testEnviornment/5/FQ/R2QU87UY8EILD42724L6IX
+/Game/__ExternalActors__/maps/testEnviornment/3/ZT/0EQYMTYR3X3A7SOXER3JSP
+/Game/__ExternalActors__/maps/testEnviornment/5/ZO/I16KNY99LMJ8DJAKXGBACL
+/Game/__ExternalActors__/maps/testEnviornment/3/KK/SCCXF8CA7A1Z98AIA411DY
+/Game/__ExternalActors__/maps/testEnviornment/1/6S/CB7TC21ZOMWX7JQPC5HNVG
+/Game/__ExternalActors__/maps/testEnviornment/E/3P/JNZ2KISWP8CAXEW3QYH9CL
+/Game/__ExternalActors__/maps/testEnviornment/E/4Y/PTPU6JQ45DAG078Y6ECRTE
+/Game/__ExternalActors__/maps/testEnviornment/A/7N/XBOJ5N2CAXYVVFSIO6EW65
+/Game/__ExternalActors__/maps/testEnviornment/B/X2/8NC63M6HFK7NSRSH3RELX0
+/Game/__ExternalActors__/maps/testEnviornment/2/HU/067CNWCYZCZDYJQ3GN82FU
+/Game/__ExternalActors__/maps/testEnviornment/4/C5/CO3437O8L0PU7TWHCIRTOG
+/Game/__ExternalActors__/maps/testEnviornment/6/J6/G8BVX7S8TT95QFHEPIGO9P
+/Game/__ExternalActors__/maps/testEnviornment/6/6W/VJ2I15QWY72BJPQKK71BN4
+/Game/__ExternalActors__/maps/testEnviornment/5/XR/Q3NIOPXOHZWWROQ9O6SNK7
+/Game/__ExternalActors__/maps/testEnviornment/3/YE/0QVWZOAVTSCDI91FZX4P0Y
+/Game/__ExternalActors__/maps/testEnviornment/4/KF/QI22BN05ZW6BKO3LJRLZ3N
+/Game/__ExternalActors__/maps/testEnviornment/D/RI/QFWRP6U5LXOCHKOEFN36HS
+/Game/__ExternalActors__/maps/testEnviornment/3/GU/J0VN5NF7VIYG1XGL6C27GJ
+/Game/__ExternalActors__/maps/testEnviornment/3/B1/66MXI49JKDJ38BVMNLBM3E
+/Game/__ExternalActors__/maps/testEnviornment/E/AK/XMMQPBCHNE7PR753U3UF23
+/Game/__ExternalActors__/maps/testEnviornment/9/H4/4IRZ6UUYU2FII2QY0TAZWK
+/Game/__ExternalActors__/maps/testEnviornment/3/LL/3E1V2PRO2WYU9JGRDJ0F1B
+/Game/__ExternalActors__/maps/testEnviornment/0/73/2WDKPX159YIJN0UA6TLRSD
+/Game/__ExternalActors__/maps/testEnviornment/D/UP/YTY2D91YSKZE3CRJGBW2XJ
+/Game/__ExternalActors__/maps/testEnviornment/2/G5/KYM50EX97ZO7E50DSRLH7Z
+/Game/__ExternalActors__/maps/testEnviornment/1/12/3G5WMCBV9PYZTFQTVESL54
+/Game/__ExternalActors__/maps/testEnviornment/3/CI/3KCURI93G9Z6HO67T2ZKH9
+/Game/__ExternalActors__/maps/testEnviornment/8/UW/AF7POQPT4PDEBE4RRWWH01
+/Game/__ExternalActors__/maps/testEnviornment/7/NY/RZOCMH5U6KDKS2VT6EM0IS
+/Game/__ExternalActors__/maps/testEnviornment/4/KC/OSDHBBRUQ1BYMN17P9NXNF
+/Game/__ExternalActors__/maps/testEnviornment/9/CF/QA46PT05T2NVGVNXAQTDOQ
+/Game/__ExternalActors__/maps/testEnviornment/3/5A/JZ53988NNO748J428SKWAA
+/Game/__ExternalActors__/maps/testEnviornment/2/SN/D928TGUQL6TSVGADOW9G7G
+/Game/__ExternalActors__/maps/testEnviornment/A/W4/FRB3KSE67XSKDDD008V7IS
+/Game/__ExternalActors__/maps/testEnviornment/D/48/URFWYUM2NL2C0N0X6H0VET
+/Game/__ExternalActors__/maps/testEnviornment/6/0Z/QALP0KGSKTDCHYOWBH00TC
+/Game/__ExternalActors__/maps/testEnviornment/D/KB/17CQYA7LACNCQ4IK523S4U
+/Game/__ExternalActors__/maps/testEnviornment/8/Z2/LQI3UWNTUWXS4YTW8R2ZOL
+/Game/__ExternalActors__/maps/testEnviornment/E/6A/ENL0OWY2HRYV052HVCPAB9
+/Game/__ExternalActors__/maps/testEnviornment/5/ZF/B1UH0J19Y2VUK90EVX9223
+/Game/__ExternalActors__/maps/testEnviornment/8/I4/FM7K3KA4V81EAVXB86NF00
+/Game/__ExternalActors__/maps/testEnviornment/D/L8/RHHCCGI7679GMYDIZYHQQS
+/Game/__ExternalActors__/maps/testEnviornment/9/X8/EXRC9AS385205TK6LM84GJ
+/Game/__ExternalActors__/maps/testEnviornment/1/3Q/EAG4BS2DPHIK2XK2NND0XW
+/Game/__ExternalActors__/maps/testEnviornment/3/EC/0V2G0J8DX3DNGTSVL53KTE
+/Game/__ExternalActors__/maps/testEnviornment/5/GY/O1UEJHY8P8XD96235LC4PP
+/Game/__ExternalActors__/maps/testEnviornment/0/MZ/5PNEY3SF69UX7T47UZ0L9Y
+/Game/__ExternalActors__/maps/testEnviornment/2/V3/DCW0QKDUNXNFY4SC2NQ1ID
+/Game/__ExternalActors__/maps/testEnviornment/D/5Z/AEPGC9ISM3EWFKTPEKIXEC
+/Game/__ExternalActors__/maps/testEnviornment/A/JQ/JKQR4DLLNM14GIYDEONLMN
+/Game/__ExternalActors__/maps/testEnviornment/9/NO/AYYH53BAPU6S2DXDX3VW0J
+/Game/__ExternalActors__/maps/testEnviornment/1/QM/E0DKBL2TY5TRDBG0P2PN7H
+/Game/__ExternalActors__/maps/testEnviornment/7/63/LM023UU1VHRJSPAJ1TQPML
+/Game/__ExternalActors__/maps/testEnviornment/D/HH/OY29LNIR2LNYQ17X76J5S5
+/Game/__ExternalActors__/maps/testEnviornment/4/C1/XLN1OLNDB694QWB7U4ZLMN
+/Game/__ExternalActors__/maps/testEnviornment/2/UF/HQ3LWFTD9PLO9A0SJYKW1R
+/Game/__ExternalActors__/maps/testEnviornment/C/5I/OWZ14ULEZAEJFA07EXB7XJ
+/Game/__ExternalActors__/maps/testEnviornment/E/AN/2GTWNGC0DZNSNMBA2XYX0W
+/Game/__ExternalActors__/maps/testEnviornment/4/0B/4G2S0SB0OQ7NT9TIJRG1IX
+/Game/__ExternalActors__/maps/testEnviornment/D/6I/H838KO1AS7MZQY9YW0R85Z
+/Game/__ExternalActors__/maps/testEnviornment/8/UK/Y4AICDJPBP6BUSC1K3CCWC
+/Game/__ExternalActors__/maps/testEnviornment/0/2R/9TP27SKQ5TPPPJXI93JHHB
+/Game/__ExternalActors__/maps/testEnviornment/6/2U/2B7L89GVL1VQTEGG85JXL7
+/Game/__ExternalActors__/maps/testEnviornment/4/EH/5T3XYY52DWRM2BF04MGLUB
+/Game/__ExternalActors__/maps/testEnviornment/5/RE/7CHG16SPORDJ54HG2WI5VU
+/Game/__ExternalActors__/maps/testEnviornment/2/7N/YTPXHNC1UVUBQVC4JJMP94
+/Game/__ExternalActors__/maps/testEnviornment/6/IM/2O6HZT4ODMQZMVDIEHPXGC
+/Game/__ExternalActors__/maps/testEnviornment/5/MS/DNAAJ5ZCP6S7QQPYDIW90N
+/Game/__ExternalActors__/maps/testEnviornment/D/N0/262Z07NP1VWWNXK1JDXBOB
+/Game/__ExternalActors__/maps/testEnviornment/A/NW/URJ073QXF09ZWNP3P7H96C
+/Game/__ExternalActors__/maps/testEnviornment/B/RC/XQN56CBLXFUZ7FG0YQU0EF
+/Game/__ExternalActors__/maps/testEnviornment/5/A8/T1A1A5J4CE1TWAKSN96818
+/Game/__ExternalActors__/maps/testEnviornment/2/2S/3YFF7QNMFUSZXMV6CUBOI7
+/Game/__ExternalActors__/maps/testEnviornment/7/C7/WC6IO6SLKQC4TU9CUJOB5S
+/Game/__ExternalActors__/maps/testEnviornment/E/0S/NO0MMNYTKGHCL5X32QIEX2
+/Game/__ExternalActors__/maps/testEnviornment/C/3P/1BKEWMV4Q2F0EF0JQ094D6
+/Game/__ExternalActors__/maps/testEnviornment/9/SP/XJDCB60MT9HBRCL0ME0RNE
+/Game/__ExternalActors__/maps/testEnviornment/C/KA/BXBB72EQG2A0O6YE72ODL6
+/Game/__ExternalActors__/maps/testEnviornment/B/KE/IPVIY7ZKYXACGX3MUZ5ZH8
+/Game/__ExternalActors__/maps/testEnviornment/2/J4/QRW6CM8V6OYJRYTD4JH73K
+/Game/__ExternalActors__/maps/testEnviornment/D/S5/UG8VLD9ZFVCRGO2C3JX8NL
+/Game/__ExternalActors__/maps/testEnviornment/D/XP/PYCGSSSJ5UQM4551IQC9PG
+/Game/__ExternalActors__/maps/testEnviornment/6/5Y/2MCKTA59DPVTGS9PZ8JU4S
+/Game/__ExternalActors__/maps/testEnviornment/B/WW/T0M22JAZQJV0QZ4KJPZ3G8
+/Game/__ExternalActors__/maps/testEnviornment/E/O2/YMO8LYCAT7AUMQFD4A6HIL
+/Game/__ExternalActors__/maps/testEnviornment/A/84/QDGR9VW1DDE29MN4J44SVK
+/Game/__ExternalActors__/maps/testEnviornment/2/9V/EIQDHGIU7PJHRF6HWITYNN
+/Game/__ExternalActors__/maps/testEnviornment/E/0N/LNNIBO2VLWYYMZW4JP5P4L
+/Game/__ExternalActors__/maps/testEnviornment/B/1Q/YO0U3NEV0DHXXPR38YC03V
+/Game/__ExternalActors__/maps/testEnviornment/B/DD/Q90F75NIOJ379NV4QGY8WG
+/Game/__ExternalActors__/maps/testEnviornment/E/HG/6WDHAIYG6JCTRFE2TMH3IG
+/Game/__ExternalActors__/maps/testEnviornment/C/4U/P61AY8IETKHVHTU3GFTHB7
+/Game/__ExternalActors__/maps/testEnviornment/2/3P/ZD5146YQY1T7GHELHZ9YLM
+/Game/__ExternalActors__/maps/testEnviornment/8/BT/M7VGY1PIEESU0GHLJSXRFI
+/Game/__ExternalActors__/maps/testEnviornment/D/HA/HC1QHD9N8673M6T0CELO5B
+/Game/__ExternalActors__/maps/testEnviornment/5/4Y/U384NG3GTKZUVJEPAJ3JPG
+/Game/__ExternalActors__/maps/testEnviornment/4/DL/2L33W7HZ3T5PINI6G6UO91
+/Game/__ExternalActors__/maps/testEnviornment/B/3I/6FIVS8TJV71ZG10AKAXN6A
+/Game/__ExternalActors__/maps/testEnviornment/9/HB/VSQ4W7OTRT1V335SWYY59C
+/Game/__ExternalActors__/maps/testEnviornment/3/QB/170TMF20F2XIDRDD5OI891
+/Game/__ExternalActors__/maps/testEnviornment/7/YJ/UPS1O4XI3U8JSKRNQFKX7J
+/Game/__ExternalActors__/maps/testEnviornment/D/IB/OF4DM4W6QGPZH2USUQJDWW
+/Game/__ExternalActors__/maps/testEnviornment/4/9V/66XX5FCTN6F0YALTI22NKS
+/Game/__ExternalActors__/maps/testEnviornment/6/PM/C15JNWB3RJA9ENCPHLJYKA
+/Game/__ExternalActors__/maps/testEnviornment/8/XA/BDI1DWAFBIP65GSIG03KLN
+/Game/__ExternalActors__/maps/testEnviornment/9/25/KDJBK9GOBMGQUDASB5N13G
+/Game/__ExternalActors__/maps/testEnviornment/8/YG/O8DA3WV4OO1IHO5EAMG9U7
+/Game/__ExternalActors__/maps/testEnviornment/7/JI/ADC5YRL8F0WWKIUBDDO9N3
+/Game/__ExternalActors__/maps/testEnviornment/8/JD/RXJG2LF16FEWFV0UJIVW6O
+/Game/__ExternalActors__/maps/testEnviornment/3/0U/SCWG39O87GIBB1YYVXMVDQ
+/Game/__ExternalActors__/maps/testEnviornment/0/UN/V8AWGJZYH8VDUIDPN8L9RR
+/Game/__ExternalActors__/maps/testEnviornment/5/2X/JLLWJAJVF77LKA4OA1AN4A
+/Game/__ExternalActors__/maps/testEnviornment/5/XW/IKLIC6HEA6OMQTNAIOKW50
+/Game/__ExternalActors__/maps/testEnviornment/E/8M/V1TJHLLDUFGG7O1PTGHBWZ
+/Game/__ExternalActors__/maps/testEnviornment/A/4Z/Q99VM1TR0LZGR613BMRU8O
+/Game/__ExternalActors__/maps/testEnviornment/A/RU/ZVFA00FDIUZXEZQJYBNI61
+[2026.10.04-19.10.31:090][672]LogFileHelpers: Saving map 'testEnviornment' took 5.289
+[2026.10.04-19.10.31:090][672]Cmd: MAP LOAD FILE="../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/maps/testEnviornment.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.10.04-19.10.31:140][672]LogWorld: UWorld::CleanupWorld for testEnviornment, bSessionEnded=true, bCleanupResources=true
+[2026.10.04-19.10.31:140][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.10.04-19.10.31:140][672]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/maps/testEnviornment.testEnviornment
+[2026.10.04-19.10.31:176][672]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.10.04-19.10.31:213][672]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.10.04-19.10.31:215][672]LogStreaming: Display: FlushAsyncLoading(481): 1 QueuedPackages, 0 AsyncPackages
+[2026.10.04-19.10.31:223][672]LogAudio: Display: Audio Device (ID: 1) registered with world 'testEnviornment'.
+[2026.10.04-19.10.31:223][672]LogChaosDD: Creating Chaos Debug Draw Scene for world testEnviornment
+[2026.10.04-19.10.31:228][672]LogWorldPartition: ULevel::OnLevelLoaded(testEnviornment)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.10.04-19.10.31:228][672]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.10.04-19.10.31:228][672]LogWorldPartition: UWorldPartition::Initialize : World = /Game/maps/testEnviornment.testEnviornment, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.10.04-19.10.31:874][672]LogWorldPartition: Display: WorldPartition initialize took 645.952 ms (total: 1.59 sec)
+[2026.10.04-19.10.33:076][672]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.10.04-19.10.33:104][672]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2026.10.04-19.10.33:113][672]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.10.04-19.10.33:116][672]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3.058ms to complete.
+[2026.10.04-19.10.33:337][672]LogContentValidation: Display: Starting to validate 146 assets
+[2026.10.04-19.10.33:337][672]LogContentValidation: Enabled validators:
+[2026.10.04-19.10.33:338][672]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.04-19.10.33:338][672]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.04-19.10.33:338][672]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.04-19.10.33:338][672]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.04-19.10.33:338][672]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.04-19.10.33:338][672]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.04-19.10.33:342][672]AssetCheck: /Game/maps/testEnviornment Validating asset
+[2026.10.04-19.10.33:342][672]AssetCheck: /Game/maps/testEnviornment_HLOD0_Instancing Validating asset
+[2026.10.04-19.10.33:783][673]LogStreaming: Display: FlushAsyncLoading(561): 64 QueuedPackages, 0 AsyncPackages
+[2026.10.04-19.10.45:474][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.10.04-19.10.45:498][848]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.04-19.10.45:690][848]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/inputs/inputInteract] ([1] browsable assets)...
+[2026.10.04-19.10.45:691][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/inputs/inputInteract]
+[2026.10.04-19.10.45:691][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/inputs/inputInteract" FILE="../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/inputs/inputInteract.uasset" SILENT=true
+[2026.10.04-19.10.45:718][848]LogSavePackage: Moving output files for package: /Game/inputs/inputInteract
+[2026.10.04-19.10.45:718][848]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/inputInteractA33EFBF84AC0E70555F07DB0E44FABB3.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/inputs/inputInteract.uasset'
+[2026.10.04-19.10.45:721][848]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/inputs/inputJump] ([1] browsable assets)...
+[2026.10.04-19.10.45:721][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/inputs/inputJump]
+[2026.10.04-19.10.45:721][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/inputs/inputJump" FILE="../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/inputs/inputJump.uasset" SILENT=true
+[2026.10.04-19.10.45:723][848]LogSavePackage: Moving output files for package: /Game/inputs/inputJump
+[2026.10.04-19.10.45:723][848]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/inputJump1BA9B6014495E6A2A20913903882FA47.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/inputs/inputJump.uasset'
+[2026.10.04-19.10.45:726][848]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/inputs/inputLook] ([1] browsable assets)...
+[2026.10.04-19.10.45:726][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/inputs/inputLook]
+[2026.10.04-19.10.45:726][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/inputs/inputLook" FILE="../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/inputs/inputLook.uasset" SILENT=true
+[2026.10.04-19.10.45:728][848]LogSavePackage: Moving output files for package: /Game/inputs/inputLook
+[2026.10.04-19.10.45:728][848]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/inputLook72C76FC74FFB672FE264BF8B30128A2A.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/inputs/inputLook.uasset'
+[2026.10.04-19.10.45:732][848]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/inputs/inputMovement] ([1] browsable assets)...
+[2026.10.04-19.10.45:732][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/inputs/inputMovement]
+[2026.10.04-19.10.45:732][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/inputs/inputMovement" FILE="../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/inputs/inputMovement.uasset" SILENT=true
+[2026.10.04-19.10.45:733][848]LogSavePackage: Moving output files for package: /Game/inputs/inputMovement
+[2026.10.04-19.10.45:733][848]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/inputMovement9F9D646B46C1BC88BEE026B059A1E256.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/inputs/inputMovement.uasset'
+[2026.10.04-19.10.45:737][848]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/inputs/mappingPlayer] ([1] browsable assets)...
+[2026.10.04-19.10.45:737][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/inputs/mappingPlayer]
+[2026.10.04-19.10.45:737][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/inputs/mappingPlayer" FILE="../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/inputs/mappingPlayer.uasset" SILENT=true
+[2026.10.04-19.10.45:739][848]LogSavePackage: Moving output files for package: /Game/inputs/mappingPlayer
+[2026.10.04-19.10.45:739][848]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/mappingPlayer71C4654D4895294C3D31E98F6C40E0F4.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/inputs/mappingPlayer.uasset'
+[2026.10.04-19.10.45:761][848]LogFileHelpers: InternalPromptForCheckoutAndSave took 262.760 ms (total: 4.76 sec)
+[2026.10.04-19.10.45:870][848]LogContentValidation: Display: Starting to validate 5 assets
+[2026.10.04-19.10.45:870][848]LogContentValidation: Enabled validators:
+[2026.10.04-19.10.45:870][848]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.04-19.10.45:870][848]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.04-19.10.45:870][848]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.04-19.10.45:870][848]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.04-19.10.45:870][848]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.04-19.10.45:870][848]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.04-19.10.45:872][848]AssetCheck: /Game/inputs/inputInteract Validating asset
+[2026.10.04-19.10.45:874][848]AssetCheck: /Game/inputs/inputJump Validating asset
+[2026.10.04-19.10.45:875][848]AssetCheck: /Game/inputs/inputLook Validating asset
+[2026.10.04-19.10.45:875][848]AssetCheck: /Game/inputs/inputMovement Validating asset
+[2026.10.04-19.10.45:875][848]AssetCheck: /Game/inputs/mappingPlayer Validating asset

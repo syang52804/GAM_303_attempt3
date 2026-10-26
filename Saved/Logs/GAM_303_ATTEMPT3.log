@@ -4002,3 +4002,21 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2026.10.26-04.19.58:452][737]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.10.26-04.19.58:452][737]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.10.26-04.19.58:452][737]AssetCheck: /Game/menu/mainMenuMap Validating asset
+[2026.10.26-04.21.51:516][629]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2026.10.26-04.21.52:312][659]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.10.26-04.21.52:381][659]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/menu/mainMenu_widget] ([2] browsable assets)...
+[2026.10.26-04.21.52:387][659]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/menu/mainMenu_widget.mainMenu_widget]
+[2026.10.26-04.21.52:387][659]OBJ SavePackage: Finished generating thumbnails for package [/Game/menu/mainMenu_widget]
+[2026.10.26-04.21.52:387][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/menu/mainMenu_widget" FILE="../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/menu/mainMenu_widget.uasset" SILENT=true
+[2026.10.26-04.21.52:419][659]LogSavePackage: Moving output files for package: /Game/menu/mainMenu_widget
+[2026.10.26-04.21.52:420][659]LogSavePackage: Moving '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Saved/mainMenu_widget46175D944C5B072C91D76494C29F6FEE.tmp' to '../../../../../../Users/Serya/source/GAM_303_ATTEMPT3/Content/menu/mainMenu_widget.uasset'
+[2026.10.26-04.21.52:440][659]LogFileHelpers: InternalPromptForCheckoutAndSave took 128.592 ms (total: 18.7 sec)
+[2026.10.26-04.21.52:516][659]LogContentValidation: Display: Starting to validate 1 assets
+[2026.10.26-04.21.52:516][659]LogContentValidation: Enabled validators:
+[2026.10.26-04.21.52:516][659]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.10.26-04.21.52:516][659]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.10.26-04.21.52:516][659]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.10.26-04.21.52:516][659]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.10.26-04.21.52:516][659]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.10.26-04.21.52:516][659]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.10.26-04.21.52:517][659]AssetCheck: /Game/menu/mainMenu_widget Validating asset
